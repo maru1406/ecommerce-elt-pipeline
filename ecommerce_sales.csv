@@ -1,0 +1,1521 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,region,payment_method
+ORD10462,2025-06-07,CUST1196,Sunscreen,Beauty,2,1234.93,South,Debit Card
+ORD11315,2025-08-31,CUST1029,Backpack,Fashion,2,4231.11,West,Cash on Delivery
+ORD11473,2025-02-22,CUST1281,T-Shirt,Fashion,3,2560.74,East,Cash on Delivery
+ORD10745,2025-05-17,CUST1074,Shampoo,Beauty,5,2325.01,Central,Credit Card
+ORD10248,2025-09-30,CUST1138,Desk Lamp,Home,1,16908.5,West,Cash on Delivery
+ORD10431,2025-07-03,CUST1064,Novel,Books,5,2252.53,East,Credit Card
+ORD10940,2025-12-05,CUST1160,Business Book,Books,5,1748.8,East,Cash on Delivery
+ORD11491,2025-03-23,CUST1028,Shampoo,Beauty,3,4637.11,West,Credit Card
+ORD10359,2025-05-23,CUST1300,Jeans,Fashion,2,6463.19,Central,Debit Card
+ORD10428,2025-02-08,CUST1302,Smartphone,Electronics,5,51223.87,North,Credit Card
+ORD10052,2025-01-15,CUST1183,Business Book,Books,2,2165.04,East,UPI
+ORD10655,2025-04-05,CUST1372,Mixer Grinder,Home,2,3722.03,South,Cash on Delivery
+ORD10480,2025-06-03,CUST1400,Sunscreen,Beauty,1,2976.42,Central,Debit Card
+ORD11411,2025-04-17,CUST1044,T-Shirt,Fashion,3,6479.28,North,Net Banking
+ORD11236,2025-08-30,CUST1240,Perfume,Beauty,4,3178.63,East,Net Banking
+ORD10077,2025-12-14,CUST1206,Sneakers,Fashion,2,6311.19,West,Debit Card
+ORD10811,2025-11-20,CUST1171,Perfume,Beauty,4,1778.45,South,Net Banking
+ORD11266,2025-03-07,CUST1337,Shampoo,Beauty,4,4666.57,West,UPI
+ORD10652,2025-11-03,CUST1151,Vacuum Cleaner,Home,4,11195.54,West,Debit Card
+ORD11217,2025-09-01,CUST1372,Backpack,Fashion,1,6839.62,South,UPI
+ORD10142,2025-09-26,CUST1003,Air Fryer,Home,3,15033.86,Central,Net Banking
+ORD10050,2025-10-11,CUST1324,Tablet,,1,77475.74,Central,Net Banking
+ORD10728,2025-01-14,CUST1390,Sneakers,Fashion,3,1709.58,North,Credit Card
+ORD11461,2025-02-04,CUST1313,Cookbook,Books,4,255.88,Central,Cash on Delivery
+ORD11186,2025-10-20,CUST1212,Air Fryer,Home,1,10336.57,South,Debit Card
+ORD11038,2025-04-25,CUST1209,Data Science Book,Books,5,1150.12,West,Net Banking
+ORD10708,2025-10-05,CUST1389,Data Science Book,Books,4,601.93,East,Cash on Delivery
+ORD11085,2025-10-18,CUST1298,Laptop,Electronics,5,84395.25,Central,UPI
+ORD10124,2025-03-14,CUST1065,Coffee Maker,Home,4,4967.57,West,UPI
+ORD10909,2025-06-16,CUST1176,Sunscreen,Beauty,3,4318.92,North,Cash on Delivery
+ORD10352,2025-01-25,CUST1299,Face Wash,Beauty,2,3149.43,Central,Cash on Delivery
+ORD11345,2025-05-11,CUST1278,Novel,Books,2,328.94,Central,Debit Card
+ORD11416,2025-05-06,CUST1390,Jeans,Fashion,3,5482.22,Central,Cash on Delivery
+ORD11114,2025-01-10,CUST1045,Data Science Book,Books,2,1646.97,Central,Debit Card
+ORD10620,2025-02-26,CUST1350,Jeans,Fashion,5,2564.01,North,Debit Card
+ORD11487,2025-10-15,CUST1382,Sunscreen,Beauty,5,3988.27,East,UPI
+ORD10523,2025-04-23,CUST1119,Air Fryer,Home,2,6144.1,South,Cash on Delivery
+ORD10310,2025-05-06,CUST1024,T-Shirt,Fashion,2,3677.33,West,Debit Card
+ORD11339,2025-11-04,CUST1026,Coffee Maker,Home,5,5903.19,North,Debit Card
+ORD11076,2025-04-26,CUST1377,Sunscreen,Beauty,1,3460.24,Central,Net Banking
+ORD10944,2025-10-06,CUST1072,Vacuum Cleaner,Home,4,11522.59,North,Debit Card
+ORD10590,2025-08-26,CUST1337,Sunscreen,Beauty,4,1220.74,West,UPI
+ORD11042,2025-12-23,CUST1110,Face Wash,Beauty,2,2848.74,South,Cash on Delivery
+ORD11025,2025-02-20,CUST1169,Vacuum Cleaner,Home,3,1313.44,North,Credit Card
+ORD11234,2025-01-19,CUST1160,Data Science Book,Books,4,406.16,South,Cash on Delivery
+ORD11327,2025-02-25,CUST1384,Moisturizer,Beauty,1,851.26,South,Cash on Delivery
+ORD11101,2025-06-06,CUST1203,Smartwatch,Electronics,4,62003.69,South,Debit Card
+ORD11303,2025-04-16,CUST1168,Business Book,Books,4,2402.15,South,Debit Card
+ORD10917,2025-12-01,CUST1339,Backpack,Fashion,4,3703.75,East,Cash on Delivery
+ORD10245,2025-05-01,CUST1213,Data Science Book,Books,5,700.41,Central,Net Banking
+ORD10584,2025-11-10,CUST1209,Vacuum Cleaner,Home,2,13063.27,East,Credit Card
+ORD10487,2025-01-19,CUST1171,Sunscreen,Beauty,1,4315.86,East,UPI
+ORD10797,2025-05-12,CUST1191,Tablet,Electronics,3,33798.79,Central,UPI
+ORD10100,2025-07-09,CUST1172,Moisturizer,Beauty,3,3492.26,South,Cash on Delivery
+ORD10683,2025-07-09,CUST1264,Perfume,Beauty,3,2930.68,South,Credit Card
+ORD10024,2025-08-07,CUST1288,Smartphone,Electronics,5,17339.8,East,UPI
+ORD10980,2025-01-24,CUST1312,Jacket,,-1,5015.83,West,Debit Card
+ORD11066,2025-10-15,CUST1111,Business Book,Books,5,2128.39,Central,Cash on Delivery
+ORD11489,2025-12-31,CUST1171,Laptop,Electronics,2,64858.99,North,UPI
+ORD11059,2025-01-15,CUST1172,Moisturizer,,5,3300.82,Central,UPI
+ORD10060,2025-12-03,CUST1341,Novel,Books,3,1361.82,North,UPI
+ORD10125,2025-04-13,CUST1270,Air Fryer,Home,5,10077.97,Central,Net Banking
+ORD10071,2025-03-04,CUST1282,T-Shirt,Fashion,3,3551.54,West,Debit Card
+ORD10629,2025-03-28,CUST1111,Coffee Maker,Home,5,15729.3,South,Net Banking
+ORD11165,2025-12-07,CUST1331,Vacuum Cleaner,Home,3,12687.72,West,Debit Card
+ORD10501,2025-04-13,CUST1060,Air Fryer,Home,1,15338.94,North,Debit Card
+ORD10845,2025-02-20,CUST1003,Data Science Book,fashion,2,1231.94,North,Credit Card
+ORD11456,2025-07-17,CUST1202,Air Fryer,Home,2,4006.96,South,UPI
+ORD11256,2025-03-07,CUST1262,Laptop,Electronics,1,17297.52,North,Debit Card
+ORD11223,2025-09-17,CUST1058,Cookbook,Books,5,1705.03,North,Debit Card
+ORD10991,2025-08-28,CUST1378,Coffee Maker,Home,5,2318.07,Central,Net Banking
+ORD10820,2025-07-30,CUST1175,Smartwatch,Electronics,2,8874.62,Central,Debit Card
+ORD11450,2025-07-14,CUST1016,Cookbook,Books,3,1065.61,Central,Credit Card
+ORD10651,2025-12-06,CUST1123,Programming Book,Books,1,1417.33,North,Cash on Delivery
+ORD10925,2025-10-18,CUST1317,Smartphone,Electronics,2,21195.63,North,Net Banking
+ORD10817,2025-11-18,CUST1226,Tablet,Electronics,4,23603.5,North,Cash on Delivery
+ORD10068,2025-05-04,CUST1373,Jacket,Fashion,5,6023.3,South,Debit Card
+ORD10695,2025-03-17,CUST1334,Novel,Books,3,1679.72,North,UPI
+ORD10317,2025-09-28,CUST1269,Air Fryer,Home,1,17111.58,South,Debit Card
+ORD10353,2025-11-30,CUST1220,Smartphone,Electronics,5,40617.1,East,Net Banking
+ORD11098,2025-07-13,CUST1187,Backpack,Fashion,3,4367.71,Central,Credit Card
+ORD10426,2025-11-21,CUST1367,Face Wash,Beauty,4,1772.77,East,Net Banking
+ORD10830,2025-04-29,CUST1167,Air Fryer,Home,3,17648.16,North,UPI
+ORD10549,2025-06-14,CUST1063,Business Book,Books,2,1169.16,West,Net Banking
+ORD11422,2025-05-24,CUST1199,Headphones,Electronics,5,74617.76,North,Net Banking
+ORD10870,2025-02-16,CUST1192,Backpack,Fashion,1,493.81,Central,Cash on Delivery
+ORD10381,2025-03-28,CUST1045,Headphones,Electronics,1,9214.26,East,Credit Card
+ORD10669,2025-05-21,CUST1149,Desk Lamp,Home,5,3698.24,Central,Net Banking
+ORD10340,2025-07-20,CUST1124,Smartphone,Electronics,2,46975.09,West,UPI
+ORD10814,2025-08-09,CUST1230,Moisturizer,Beauty,4,1909.28,North,Credit Card
+ORD10169,2025-09-22,CUST1179,Backpack,Fashion,1,1439.65,Central,Cash on Delivery
+ORD10240,2025-05-06,CUST1342,Backpack,Fashion,3,6619.87,South,Net Banking
+ORD11079,2025-05-23,CUST1197,Business Book,Books,2,635.17,South,Credit Card
+ORD11007,2025-04-03,CUST1320,Desk Lamp,Home,3,3218.84,West,Cash on Delivery
+ORD11109,2025-06-08,,Shampoo,Beauty,1,3120.44,North,Debit Card
+ORD10298,2025-02-25,CUST1386,Business Book,Books,5,1688.23,East,Net Banking
+ORD11088,2025-04-18,CUST1360,Novel,Books,3,1309.4,Central,Credit Card
+ORD10204,2025-05-08,CUST1328,Headphones,Electronics,5,3401.18,East,Credit Card
+ORD10362,2025-06-13,CUST1127,Face Wash,Beauty,1,4378.19,West,Credit Card
+ORD10975,2025-07-10,CUST1190,Moisturizer,Beauty,1,1046.45,East,
+ORD11062,2025-10-25,CUST1208,Perfume,Beauty,2,3683.44,South,Net Banking
+ORD10030,2025-05-31,CUST1048,Moisturizer,Beauty,2,2406.01,South,Credit Card
+ORD10260,2025-11-23,CUST1104,Data Science Book,Books,1,601.66,West,UPI
+ORD10507,2025-03-10,CUST1399,Desk Lamp,Home,2,2873.31,South,UPI
+ORD11220,2025-03-12,CUST1312,Jacket,Fashion,4,5628.24,North,Cash on Delivery
+ORD10412,2025-02-17,CUST1229,Moisturizer,Beauty,5,4307.46,Central,Debit Card
+ORD10066,2025-11-28,CUST1377,Smartphone,Electronics,1,20406.16,North,UPI
+ORD11106,2025-03-19,CUST1070,Sneakers,Fashion,4,6098.02,North,Net Banking
+ORD10238,2025-07-10,CUST1108,Jeans,Fashion,2,2866.54,East,UPI
+ORD11032,2025-05-26,CUST1298,Perfume,Beauty,3,625.57,South,Cash on Delivery
+ORD10621,2025-08-28,CUST1351,Jacket,Fashion,3,5392.7,Central,Net Banking
+ORD10572,2025-02-01,CUST1052,Tablet,Electronics,5,39788.54,North,Cash on Delivery
+ORD11081,2025-08-16,CUST1040,Jeans,Fashion,4,6901.3,East,Credit Card
+ORD10427,2025-09-23,CUST1181,Air Fryer,Home,1,10399.29,Central,UPI
+ORD10269,2025-10-01,CUST1260,Tablet,Electronics,3,16638.38,East,Debit Card
+ORD10271,2025-01-27,CUST1292,Face Wash,Beauty,4,3843.39,North,Credit Card
+ORD11474,2025-07-21,CUST1203,Jacket,Fashion,5,1406.8,West,Net Banking
+ORD10533,2025-12-05,CUST1341,Cookbook,Books,3,1489.21,West,Net Banking
+ORD10599,2025-11-09,CUST1374,Mixer Grinder,Home,1,7902.22,East,UPI
+ORD10894,2025-11-27,CUST1369,Desk Lamp,Home,5,11360.23,East,Debit Card
+ORD10810,2025-04-30,CUST1290,Tablet,Electronics,4,9953.97,West,Cash on Delivery
+ORD11274,2025-02-08,CUST1071,Programming Book,Books,1,1434.37,Central,Net Banking
+ORD10414,2025-09-16,CUST1050,Cookbook,Books,5,637.38,North,Debit Card
+ORD10927,2025-12-31,CUST1105,Novel,Books,5,2433.66,North,Debit Card
+ORD10731,2025-05-22,CUST1159,Cookbook,Books,1,1109.47,South,Net Banking
+ORD11378,2025-06-05,CUST1044,Smartwatch,Electronics,3,7529.13,Central,UPI
+ORD10719,2025-09-22,CUST1172,Coffee Maker,Home,5,2936.04,Central,Debit Card
+ORD11221,2025-10-21,CUST1008,Moisturizer,Beauty,3,2936.07,North,Cash on Delivery
+ORD10045,2025-12-17,CUST1060,Mixer Grinder,Home,1,7331.43,Central,Credit Card
+ORD10860,2025-11-17,CUST1371,Face Wash,Beauty,3,3988.58,North,Credit Card
+ORD11194,2025-10-29,CUST1274,Smartphone,Electronics,2,12400.23,East,Debit Card
+ORD10366,2025-10-05,CUST1117,Cookbook,Books,4,2359.84,South,Credit Card
+ORD11049,2025-09-14,CUST1094,Business Book,Books,5,843.87,South,Net Banking
+ORD10116,2025-07-14,CUST1265,Jeans,Fashion,1,5294.66,Central,Cash on Delivery
+ORD10304,2025-09-12,CUST1321,Moisturizer,Beauty,5,4221.95,West,UPI
+ORD10486,2025-05-21,CUST1169,Business Book,Books,5,2294.39,West,Net Banking
+ORD11183,2025-12-19,CUST1385,Vacuum Cleaner,Home,1,1102.74,West,Debit Card
+ORD10232,2025-09-28,CUST1284,Smartwatch,Electronics,1,62247.54,Central,Cash on Delivery
+ORD10423,2025-09-30,CUST1312,Headphones,Electronics,2,68486.93,South,Debit Card
+ORD11362,2025-08-05,CUST1089,Backpack,Fashion,5,6352.9,West,Credit Card
+ORD10947,2025-08-06,CUST1337,Headphones,Electronics,5,79203.03,East,Debit Card
+ORD10079,2025-09-04,CUST1137,Face Wash,Beauty,3,2187.72,West,UPI
+ORD10278,2025-10-18,CUST1355,T-Shirt,Fashion,3,1390.86,South,Debit Card
+ORD11402,2025-08-10,CUST1131,Sneakers,Fashion,5,2175.24,East,Net Banking
+ORD10782,2025-05-21,CUST1261,Face Wash,Beauty,1,3234.1,North,UPI
+ORD10989,2025-11-19,CUST1319,Programming Book,,3,2106.95,East,Credit Card
+ORD10272,2025-06-09,CUST1037,Jacket,Fashion,2,4347.91,Central,UPI
+ORD10016,2025-02-07,CUST1071,Smartwatch,Electronics,3,15163.93,South,UPI
+ORD11158,2025-01-04,CUST1232,Business Book,Books,1,727.3,Central,UPI
+ORD11349,2025-09-03,CUST1003,Tablet,Electronics,1,36500.73,East,Cash on Delivery
+ORD10941,2025-10-25,CUST1378,Headphones,Electronics,2,73545.74,North,UPI
+ORD10416,2025-11-02,CUST1387,Smartphone,Electronics,-1,4902.43,South,Net Banking
+ORD10514,2025-07-17,CUST1373,Desk Lamp,Home,-1,13583.37,East,UPI
+ORD10757,2025-03-26,CUST1158,Mixer Grinder,Home,1,7812.95,East,Debit Card
+ORD10536,2025-09-22,,Mixer Grinder,Home,2,12520.69,North,Net Banking
+ORD10354,2025-08-05,CUST1187,Cookbook,Books,2,499.19,South,UPI
+ORD10818,2025-10-10,CUST1341,Desk Lamp,Home,4,13074.87,South,UPI
+ORD10185,2025-05-11,CUST1185,Backpack,Fashion,4,3662.48,North,Net Banking
+ORD10382,2025-04-28,CUST1264,Desk Lamp,Home,5,16601.47,South,Credit Card
+ORD10995,2025-12-27,CUST1377,Desk Lamp,Home,3,17551.88,North,Credit Card
+ORD11250,2025-09-05,CUST1190,Mixer Grinder,Home,5,9110.61,Central,Debit Card
+ORD11104,2025-12-31,CUST1009,Vacuum Cleaner,Home,1,3676.68,East,Cash on Delivery
+ORD11476,2025-11-08,CUST1117,T-Shirt,Fashion,4,947.74,East,Net Banking
+ORD10901,2025-11-04,CUST1089,Perfume,Beauty,3,4018.64,East,UPI
+ORD11034,2025-02-27,CUST1229,Jeans,Fashion,5,1925.35,East,Credit Card
+ORD10176,2025-11-24,CUST1114,Jeans,Fashion,3,4678.01,East,Net Banking
+ORD10498,2025-11-15,CUST1286,Vacuum Cleaner,Home,4,10330.21,East,Net Banking
+ORD10766,2025-11-17,CUST1368,Jeans,Fashion,4,707.87,West,Net Banking
+ORD11341,2025-06-01,CUST1182,Moisturizer,Beauty,4,4232.81,West,Debit Card
+ORD11308,2025-05-21,CUST1295,Mixer Grinder,Home,3,8053.64,Central,Credit Card
+ORD10916,2025-03-15,CUST1211,Cookbook,Books,4,1102.59,Central,Cash on Delivery
+ORD10715,2025-05-02,CUST1368,Sneakers,Fashion,1,5751.77,North,Net Banking
+ORD10044,2025-10-10,CUST1084,Jacket,Fashion,4,5432.71,East,Credit Card
+ORD11400,2025-08-07,CUST1218,Smartphone,Electronics,4,3582.16,Central,Cash on Delivery
+ORD11252,2025-08-21,CUST1177,Face Wash,Beauty,1,1719.6,East,Cash on Delivery
+ORD10241,2025-10-08,CUST1316,Data Science Book,Books,3,1480.72,West,Debit Card
+ORD11477,2025-03-21,CUST1080,Jacket,Fashion,3,2886.89,North,Debit Card
+ORD10102,2025-07-08,CUST1036,Vacuum Cleaner,Home,4,14245.21,West,Cash on Delivery
+ORD10713,2025-10-09,CUST1091,Tablet,Electronics,2,4018.58,North,Net Banking
+ORD11238,2025-03-04,CUST1280,Business Book,Books,1,1936.22,North,UPI
+ORD10108,2025-10-07,CUST1121,Air Fryer,Home,5,17733.04,East,
+ORD10893,2025-11-25,CUST1317,Sneakers,Fashion,3,6984.76,East,UPI
+ORD11064,2025-11-25,CUST1132,Vacuum Cleaner,Home,-1,1468.24,West,Net Banking
+ORD10979,2025-12-27,CUST1082,Smartphone,Electronics,3,78158.28,East,UPI
+ORD11167,2025-12-07,CUST1357,Backpack,Fashion,2,4124.14,South,Net Banking
+ORD10262,2025-04-25,CUST1131,Data Science Book,Books,2,819.94,East,Net Banking
+ORD10463,2025-02-06,CUST1056,Perfume,Beauty,1,421.12,Central,UPI
+ORD10819,2025-06-06,CUST1287,Cookbook,Books,1,1052.78,East,Credit Card
+ORD10716,2025-01-26,CUST1043,Coffee Maker,Home,5,1271.92,West,Cash on Delivery
+ORD10129,2025-08-17,CUST1183,Headphones,Electronics,4,55093.78,South,Credit Card
+ORD10576,2025-05-24,CUST1257,Perfume,Beauty,5,1526.4,South,Debit Card
+ORD11289,2025-04-04,CUST1085,Jeans,Fashion,1,5394.34,South,UPI
+ORD10863,2025-02-21,CUST1111,Vacuum Cleaner,Home,4,16021.55,East,Cash on Delivery
+ORD11035,2025-10-21,CUST1355,Programming Book,Books,2,1324.21,Central,Debit Card
+ORD10591,2025-11-09,CUST1203,Smartphone,Electronics,4,51391.52,East,Debit Card
+ORD11365,2025-11-26,CUST1110,Shampoo,Beauty,5,4281.96,South,Cash on Delivery
+ORD11089,2025-03-04,CUST1332,Desk Lamp,Home,2,12895.18,South,Credit Card
+ORD11054,2025-07-02,CUST1191,Mixer Grinder,Home,2,8913.03,East,UPI
+ORD10383,2025-08-12,CUST1352,Coffee Maker,Home,2,10267.13,East,Credit Card
+ORD10221,2025-12-09,CUST1176,Air Fryer,Home,2,16375.65,Central,Net Banking
+ORD10033,2025-06-06,CUST1237,Novel,Books,3,2165.05,West,Debit Card
+ORD10679,2025-10-27,CUST1188,Coffee Maker,Home,4,11362.11,East,UPI
+ORD11006,2025-12-22,CUST1339,Coffee Maker,Home,2,13604.69,South,Net Banking
+ORD10632,2025-11-19,CUST1171,Business Book,Books,5,577.01,East,Cash on Delivery
+ORD11488,2025-07-27,CUST1230,Backpack,Fashion,3,3140.96,West,Credit Card
+ORD11301,2025-01-23,CUST1146,Face Wash,Beauty,2,1274.03,Central,Net Banking
+ORD10577,2025-12-27,CUST1203,Smartphone,Electronics,4,67519.71,Central,UPI
+ORD11318,2025-08-11,CUST1023,Face Wash,Beauty,1,3743.51,Central,Net Banking
+ORD10789,2025-07-28,CUST1223,Backpack,Fashion,5,1207.81,South,Debit Card
+ORD10937,2025-06-05,CUST1103,Air Fryer,Home,3,3155.08,North,Debit Card
+ORD11302,2025-01-30,CUST1019,Business Book,Books,3,1026.67,South,Cash on Delivery
+ORD11091,2025-03-20,CUST1188,Smartwatch,Electronics,4,77207.49,Central,UPI
+ORD10164,2025-09-15,CUST1219,Smartphone,Electronics,2,76831.69,South,UPI
+ORD10662,2025-01-26,CUST1254,Perfume,Beauty,3,299.39,South,Net Banking
+ORD10276,2025-07-27,CUST1262,Vacuum Cleaner,Home,1,1896.09,North,UPI
+ORD10951,2025-10-02,CUST1004,Headphones,Electronics,5,83185.9,South,Net Banking
+ORD10630,2025-10-01,CUST1051,Sunscreen,Beauty,4,3374.34,West,Cash on Delivery
+ORD10641,2025-05-18,CUST1325,Laptop,Electronics,1,63003.54,Central,Net Banking
+ORD10844,2025-09-20,CUST1264,T-Shirt,Fashion,1,3724.75,North,Net Banking
+ORD10290,2025-02-06,CUST1042,Sunscreen,Beauty,2,679.44,North,Credit Card
+ORD10307,2025-07-10,CUST1183,Cookbook,Books,4,1748.62,West,UPI
+ORD11204,2025-09-27,CUST1244,Perfume,Beauty,1,3872.44,West,Credit Card
+ORD10568,2025-09-18,CUST1180,T-Shirt,Fashion,2,3114.45,Central,Debit Card
+ORD10193,2025-09-27,CUST1277,Backpack,fashion,1,6494.09,Central,UPI
+ORD11074,2025-12-17,CUST1316,Moisturizer,Beauty,5,1471.69,South,Credit Card
+ORD10562,2025-09-16,CUST1018,Vacuum Cleaner,Home,4,776.14,East,Debit Card
+ORD10494,2025-09-22,CUST1398,Headphones,Electronics,3,71181.52,West,UPI
+ORD10064,2025-07-11,CUST1187,Desk Lamp,Home,1,15168.06,Central,Cash on Delivery
+ORD10701,2025-03-29,CUST1183,Data Science Book,Books,3,419.39,East,Debit Card
+ORD11080,2025-01-10,CUST1106,Shampoo,Beauty,1,2603.01,South,UPI
+ORD10918,2025-09-26,CUST1023,Face Wash,Beauty,2,1176.82,Central,Credit Card
+ORD11399,2025-10-05,CUST1126,Jacket,Fashion,5,5652.97,South,UPI
+ORD10333,2025-11-17,CUST1383,Face Wash,Beauty,5,4109.45,Central,UPI
+ORD10552,2025-12-30,CUST1132,Sunscreen,Beauty,2,3710.82,West,Credit Card
+ORD10535,2025-12-03,CUST1020,Smartphone,Electronics,1,84129.25,North,Credit Card
+ORD10495,2025-09-07,CUST1083,Novel,Books,1,677.64,Central,Net Banking
+ORD10742,2025-12-19,CUST1327,Vacuum Cleaner,Home,2,9721.73,North,Net Banking
+ORD10199,2025-06-04,CUST1048,Moisturizer,Beauty,5,2126.73,South,Cash on Delivery
+ORD10325,2025-05-29,CUST1320,Jacket,Fashion,5,3865.62,Central,Net Banking
+ORD10275,2025-10-31,CUST1233,Jeans,Fashion,1,3227.39,South,Cash on Delivery
+ORD11139,2025-01-27,CUST1161,Jeans,Fashion,3,3066.38,North,Credit Card
+ORD11086,2025-09-08,CUST1153,Mixer Grinder,Home,1,17953.24,Central,UPI
+ORD10571,2025-08-04,CUST1056,Smartphone,Electronics,1,12302.09,West,Credit Card
+ORD10219,2025-06-29,CUST1340,Smartwatch,fashion,2,19656.23,Central,
+ORD11212,2025-01-23,CUST1172,Coffee Maker,Home,4,8035.45,South,Debit Card
+ORD10031,2025-11-03,CUST1327,Cookbook,Books,5,948.25,North,Cash on Delivery
+ORD10057,2025-10-14,CUST1245,Shampoo,Beauty,3,3044.45,West,Cash on Delivery
+ORD11228,2025-01-02,CUST1330,Moisturizer,Beauty,4,4982.24,South,Cash on Delivery
+ORD10899,2025-05-12,CUST1047,Shampoo,Beauty,4,2021.46,North,Net Banking
+ORD10932,2025-11-25,CUST1314,Programming Book,Books,5,1716.14,West,Credit Card
+ORD10452,2025-04-16,CUST1032,T-Shirt,Fashion,3,5647.18,Central,Net Banking
+ORD10434,2025-03-04,CUST1397,Face Wash,Beauty,3,1903.06,West,Net Banking
+ORD10345,2025-03-03,CUST1236,Face Wash,Beauty,2,3072.9,West,Cash on Delivery
+ORD11449,2025-08-20,CUST1141,Cookbook,Books,2,1076.0,Central,UPI
+ORD10868,2025-04-19,CUST1018,Business Book,Books,5,428.24,Central,Cash on Delivery
+ORD10977,2025-01-17,CUST1112,Cookbook,Books,5,1294.02,North,Net Banking
+ORD11254,2025-06-12,CUST1089,Moisturizer,Beauty,5,3564.87,West,Debit Card
+ORD10773,2025-07-13,,Laptop,Electronics,3,58925.89,East,Credit Card
+ORD10762,2025-11-13,CUST1320,Cookbook,Books,3,352.22,Central,Net Banking
+ORD10635,2025-03-19,CUST1225,Coffee Maker,Home,3,8722.21,South,Credit Card
+ORD10938,2025-10-25,CUST1272,Laptop,Electronics,3,72240.05,East,Debit Card
+ORD10544,2025-02-19,CUST1191,Vacuum Cleaner,Home,3,9560.83,Central,Cash on Delivery
+ORD10986,2025-05-28,CUST1102,Coffee Maker,Home,4,13210.68,West,Debit Card
+ORD11240,2025-05-06,CUST1160,Tablet,Electronics,4,14025.41,East,Cash on Delivery
+ORD11354,2025-07-09,CUST1399,Backpack,Fashion,3,2391.31,Central,Cash on Delivery
+ORD11304,2025-01-31,CUST1338,Coffee Maker,Home,3,13726.72,West,Net Banking
+ORD10756,2025-11-17,CUST1246,Mixer Grinder,Home,4,9831.29,Central,UPI
+ORD11288,2025-08-29,CUST1107,Novel,Books,5,2411.73,West,Cash on Delivery
+ORD10711,2025-06-18,CUST1365,Coffee Maker,Home,1,8067.49,South,Cash on Delivery
+ORD11201,2025-11-24,CUST1308,Sunscreen,electronics,2,2679.81,East,Cash on Delivery
+ORD11468,2025-09-25,CUST1216,Mixer Grinder,Home,2,1258.24,South,Debit Card
+ORD10988,2025-09-02,CUST1046,Sneakers,Fashion,3,801.69,West,Net Banking
+ORD11420,2025-09-13,CUST1151,Moisturizer,Beauty,-1,4831.4,Central,Net Banking
+ORD10853,2025-09-02,CUST1329,Backpack,fashion,1,1699.9,East,Net Banking
+ORD10237,2025-04-14,CUST1057,Shampoo,Beauty,2,913.99,North,Net Banking
+ORD11305,2025-11-19,CUST1400,Smartphone,Electronics,1,50512.65,West,Cash on Delivery
+ORD10983,2025-03-10,CUST1010,Face Wash,Beauty,1,1198.16,North,Net Banking
+ORD11466,2025-09-15,CUST1285,Shampoo,Beauty,3,4032.1,North,Cash on Delivery
+ORD10722,2025-02-12,CUST1042,Sneakers,Fashion,2,2138.81,South,Cash on Delivery
+ORD10491,2025-09-18,CUST1008,Smartphone,Electronics,5,45972.16,East,Credit Card
+ORD10209,2025-07-12,CUST1331,Laptop,Electronics,4,66005.93,East,Cash on Delivery
+ORD11458,2025-05-20,CUST1147,Jeans,Fashion,1,5370.51,South,Net Banking
+ORD10406,2025-05-13,CUST1041,Tablet,Electronics,5,29147.68,North,Net Banking
+ORD10372,2025-03-09,CUST1194,Smartphone,Electronics,2,6713.65,North,Cash on Delivery
+ORD10059,2025-03-31,CUST1315,Moisturizer,Beauty,2,2685.51,East,Debit Card
+ORD10555,2025-06-21,CUST1318,Smartphone,Electronics,3,52321.53,South,Debit Card
+ORD10368,2025-03-01,CUST1368,Desk Lamp,Home,2,8557.3,South,UPI
+ORD11178,2025-02-27,CUST1146,Air Fryer,Home,2,3832.53,North,UPI
+ORD10744,2025-07-13,CUST1141,Sneakers,Fashion,4,1923.95,South,UPI
+ORD11207,2025-09-29,CUST1365,Tablet,Electronics,5,59031.32,South,Net Banking
+ORD11050,2025-03-22,CUST1079,Jacket,Fashion,5,5331.7,West,Debit Card
+ORD11227,2025-01-19,CUST1170,Face Wash,Beauty,3,3977.52,South,Cash on Delivery
+ORD10355,2025-04-05,CUST1118,Sunscreen,Beauty,2,3617.49,Central,Credit Card
+ORD10987,2025-04-08,CUST1044,Headphones,Electronics,5,15273.29,South,Debit Card
+ORD11024,2025-02-24,CUST1187,T-Shirt,Fashion,2,2223.63,West,Credit Card
+ORD10539,2025-06-09,CUST1340,Moisturizer,Beauty,5,607.82,North,Net Banking
+ORD11170,2025-04-10,CUST1290,Mixer Grinder,Home,4,16324.42,East,Credit Card
+ORD11108,2025-05-05,CUST1281,Sunscreen,Beauty,2,2914.98,East,Net Banking
+ORD11431,2025-04-18,CUST1339,Face Wash,Beauty,1,3235.43,West,Net Banking
+ORD10234,2025-05-19,CUST1080,Cookbook,Books,5,1809.08,West,Cash on Delivery
+ORD10482,2025-03-07,CUST1191,Smartwatch,Electronics,1,65197.25,South,Debit Card
+ORD10197,2025-01-27,CUST1092,Coffee Maker,Home,3,5990.34,North,UPI
+ORD11279,2025-05-27,CUST1219,Air Fryer,Home,4,1592.26,South,Cash on Delivery
+ORD10082,2025-07-17,CUST1393,Shampoo,Beauty,2,4568.06,Central,Net Banking
+ORD11424,2025-05-22,CUST1263,Desk Lamp,Home,1,11238.37,East,Net Banking
+ORD11084,2025-08-17,CUST1372,Programming Book,Books,3,553.47,East,UPI
+ORD11436,2025-07-15,CUST1254,Vacuum Cleaner,Home,4,13699.53,North,Net Banking
+ORD10112,2025-06-14,CUST1075,Sneakers,Fashion,2,6172.2,West,Credit Card
+ORD11296,2025-05-04,CUST1015,Sunscreen,Beauty,5,1620.45,South,Debit Card
+ORD10799,2025-07-30,CUST1263,Mixer Grinder,Home,1,13143.08,East,Net Banking
+ORD11143,2025-09-13,CUST1316,Jacket,Fashion,3,6072.68,West,Net Banking
+ORD11129,2025-12-31,CUST1055,Cookbook,Books,4,1340.64,West,Credit Card
+ORD11285,2025-02-13,CUST1386,Programming Book,Books,5,1718.97,East,UPI
+ORD11382,2025-09-18,CUST1028,Mixer Grinder,Home,3,17880.83,Central,
+ORD10311,2025-03-30,CUST1186,Headphones,Electronics,4,70091.2,South,Credit Card
+ORD10606,2025-12-06,CUST1104,Desk Lamp,Home,2,16199.13,North,Net Banking
+ORD10747,2025-02-03,CUST1353,Programming Book,Books,2,1363.41,East,Net Banking
+ORD10567,2025-11-12,CUST1204,Desk Lamp,Home,2,975.35,Central,Cash on Delivery
+ORD10439,2025-09-21,CUST1328,Headphones,Electronics,-1,81790.81,West,Credit Card
+ORD11141,2025-01-19,CUST1075,Headphones,Electronics,3,5686.95,West,UPI
+ORD10343,2025-05-29,CUST1370,Sneakers,Fashion,2,3920.36,East,Credit Card
+ORD11111,2025-11-26,CUST1112,Headphones,Electronics,3,44394.3,West,Credit Card
+ORD10613,2025-04-19,CUST1184,Novel,Books,2,414.66,North,Cash on Delivery
+ORD11041,2025-05-25,CUST1055,Laptop,Electronics,2,51242.41,North,Net Banking
+ORD11056,2025-11-30,CUST1308,Desk Lamp,Home,3,7450.13,West,UPI
+ORD10351,2025-03-12,CUST1262,Jacket,Fashion,4,4449.8,West,Net Banking
+ORD10934,2025-07-23,CUST1314,Mixer Grinder,Home,1,11475.46,North,Credit Card
+ORD11262,2025-07-25,CUST1002,Smartphone,Electronics,1,24324.08,North,Net Banking
+ORD10753,2025-03-14,CUST1054,Data Science Book,Books,2,2080.78,West,Cash on Delivery
+ORD11388,2025-09-19,CUST1399,Headphones,Electronics,4,55722.89,North,Credit Card
+ORD10553,2025-10-18,CUST1342,Backpack,Fashion,3,3558.06,South,Debit Card
+ORD10999,2025-05-18,CUST1310,Shampoo,Beauty,4,3616.64,Central,Debit Card
+ORD11331,2025-06-27,CUST1104,Vacuum Cleaner,Home,5,4634.71,Central,Debit Card
+ORD10775,2025-05-09,CUST1329,Tablet,fashion,5,63893.75,West,UPI
+ORD10454,2025-04-12,CUST1376,Jeans,Fashion,2,1851.27,West,Net Banking
+ORD10255,2025-08-29,CUST1180,Novel,Books,3,2260.92,South,Cash on Delivery
+ORD10323,2025-04-04,CUST1283,Headphones,Electronics,1,8639.81,East,
+ORD11109,2025-06-08,,Shampoo,Beauty,1,3120.44,North,Debit Card
+ORD10421,2025-12-31,CUST1057,Smartwatch,Electronics,2,38330.69,South,Net Banking
+ORD11322,2025-09-30,CUST1099,Shampoo,Beauty,1,3766.28,Central,Debit Card
+ORD11340,2025-06-17,CUST1142,Headphones,Electronics,3,28892.73,East,Credit Card
+ORD11361,2025-10-29,CUST1218,Coffee Maker,Home,1,3353.65,East,UPI
+ORD10945,2025-10-14,CUST1195,T-Shirt,Fashion,4,4305.47,South,
+ORD10614,2025-03-31,CUST1057,Jacket,Fashion,5,3361.63,South,Credit Card
+ORD10087,2025-11-07,CUST1045,Laptop,Electronics,4,5896.5,South,Credit Card
+ORD11441,2025-07-22,CUST1090,Backpack,Fashion,1,4105.44,East,Debit Card
+ORD10266,2025-08-03,CUST1107,Air Fryer,Home,5,16439.5,Central,Net Banking
+ORD10288,2025-12-31,CUST1200,Moisturizer,Beauty,-1,2964.96,East,Debit Card
+ORD10802,2025-10-15,CUST1305,Jacket,Fashion,1,1098.42,West,Net Banking
+ORD10429,2025-07-04,CUST1214,Coffee Maker,Home,4,14813.92,South,Credit Card
+ORD11145,2025-11-28,CUST1322,Desk Lamp,Home,1,11204.18,South,Net Banking
+ORD10545,2025-08-20,CUST1250,Sneakers,Fashion,2,2149.14,Central,Net Banking
+ORD10430,2025-05-23,CUST1109,Air Fryer,Home,2,5843.8,West,Credit Card
+ORD11233,2025-09-02,CUST1334,Smartwatch,Electronics,2,6424.88,South,UPI
+ORD10222,2025-07-24,CUST1070,Sneakers,Fashion,3,5344.55,East,UPI
+ORD10114,2025-06-08,CUST1145,Jacket,Fashion,1,3581.4,South,Debit Card
+ORD10585,2025-05-06,CUST1004,Air Fryer,Home,1,1239.0,South,UPI
+ORD11033,2025-06-30,CUST1301,Backpack,Fashion,1,5667.33,West,Credit Card
+ORD10175,2025-12-03,CUST1169,Jeans,Fashion,5,4608.22,North,UPI
+ORD10848,2025-05-17,CUST1140,Face Wash,Beauty,2,2161.06,North,UPI
+ORD10375,2025-08-17,CUST1375,Headphones,Electronics,4,42185.41,South,UPI
+ORD11192,2025-03-01,CUST1093,Smartphone,Electronics,2,1727.6,West,UPI
+ORD10019,2025-04-26,CUST1044,Vacuum Cleaner,Home,4,12108.01,West,Net Banking
+ORD11157,2025-06-03,CUST1199,Programming Book,Books,5,1849.23,East,UPI
+ORD10286,2025-02-05,CUST1062,Perfume,Beauty,5,3250.24,North,Cash on Delivery
+ORD10887,2025-03-20,CUST1157,Face Wash,Beauty,4,4157.56,North,Credit Card
+ORD10644,2025-10-18,CUST1186,Novel,Books,1,2375.08,West,Credit Card
+ORD11213,2025-12-04,CUST1220,Backpack,Fashion,2,1211.9,Central,UPI
+ORD10032,2025-12-03,CUST1240,Tablet,Electronics,1,24773.43,North,UPI
+ORD11019,2025-03-20,CUST1138,Sneakers,Fashion,2,4121.26,South,Credit Card
+ORD10211,2025-09-09,CUST1133,Perfume,Beauty,5,1711.41,West,Debit Card
+ORD10990,2025-09-18,CUST1346,Smartphone,Electronics,5,58141.63,South,UPI
+ORD10603,2025-12-13,CUST1022,Cookbook,fashion,3,1493.23,East,Debit Card
+ORD11174,2025-02-04,CUST1352,Sunscreen,Beauty,5,3620.06,North,UPI
+ORD10440,2025-07-29,CUST1265,Business Book,Books,3,2040.54,West,Debit Card
+ORD10953,2025-11-15,CUST1397,Smartphone,Electronics,3,73125.13,North,Net Banking
+ORD11469,2025-05-12,CUST1190,Perfume,Beauty,3,3025.85,Central,Cash on Delivery
+ORD10479,2025-03-18,CUST1048,Jeans,Fashion,1,6406.59,West,Debit Card
+ORD10189,2025-12-24,CUST1106,Coffee Maker,Home,5,12424.36,Central,Credit Card
+ORD10527,2025-01-07,CUST1260,Data Science Book,Books,1,2114.12,North,Debit Card
+ORD10843,2025-06-14,CUST1078,Programming Book,Books,1,2346.36,North,UPI
+ORD11358,2025-03-30,CUST1208,Smartphone,Electronics,3,14622.58,South,Debit Card
+ORD10483,2025-05-02,CUST1275,Smartwatch,Electronics,3,25642.38,Central,Net Banking
+ORD10395,2025-11-21,CUST1014,Air Fryer,Home,3,6390.73,North,Cash on Delivery
+ORD10922,2025-03-09,CUST1064,Business Book,Books,5,1009.48,South,Credit Card
+ORD10084,2025-10-17,CUST1235,T-Shirt,Fashion,4,6965.03,West,Cash on Delivery
+ORD11480,2025-08-18,CUST1043,Programming Book,Books,2,876.83,North,Debit Card
+ORD10049,2025-08-31,CUST1400,Laptop,Electronics,1,55540.53,West,Debit Card
+ORD11445,2025-05-25,CUST1179,Desk Lamp,Home,2,9893.03,Central,Net Banking
+ORD10156,2025-09-29,CUST1061,Smartphone,Electronics,5,42598.35,Central,Cash on Delivery
+ORD11280,2025-10-26,CUST1202,Smartwatch,,2,84631.75,North,Net Banking
+ORD11156,2025-05-26,CUST1038,Headphones,Electronics,5,69823.97,East,UPI
+ORD10417,2025-09-18,CUST1237,Moisturizer,Beauty,5,4457.97,North,UPI
+ORD11069,2025-12-06,CUST1135,Face Wash,Beauty,4,366.67,East,Debit Card
+ORD11053,2025-04-07,CUST1307,Mixer Grinder,Home,5,1621.95,West,Credit Card
+ORD11247,2025-06-20,CUST1247,Tablet,Electronics,5,68348.24,East,Credit Card
+ORD11480,2025-08-18,CUST1043,Programming Book,Books,2,876.83,North,Debit Card
+ORD10530,2025-06-30,CUST1088,Sneakers,Fashion,5,3403.14,North,UPI
+ORD10180,2025-11-19,CUST1292,Sneakers,Fashion,4,2760.71,South,Credit Card
+ORD10764,2025-04-03,CUST1006,Programming Book,Books,4,2160.6,East,UPI
+ORD11374,2025-08-21,CUST1050,Sneakers,Fashion,3,1823.69,South,Debit Card
+ORD10433,2025-01-14,CUST1139,Moisturizer,Beauty,5,1571.27,West,UPI
+ORD10528,2025-06-17,CUST1354,Business Book,Books,4,1995.62,North,UPI
+ORD10835,2025-05-22,CUST1192,Data Science Book,Books,4,1327.48,East,Credit Card
+ORD10364,2025-03-16,CUST1186,Coffee Maker,,3,16600.21,South,Cash on Delivery
+ORD11193,2025-08-21,CUST1338,Jeans,Fashion,2,4896.85,East,Cash on Delivery
+ORD11215,2025-11-25,CUST1323,Headphones,Electronics,4,19657.59,East,Credit Card
+ORD10347,2025-02-17,CUST1326,Data Science Book,Books,5,2404.81,North,Net Banking
+ORD10465,2025-03-19,CUST1353,Novel,Books,2,2407.81,South,Net Banking
+ORD10529,2025-10-07,CUST1214,Moisturizer,Beauty,5,1539.09,East,Cash on Delivery
+ORD10673,2025-12-18,CUST1275,Coffee Maker,Home,4,14994.05,North,Net Banking
+ORD11168,2025-03-16,CUST1258,Business Book,Books,3,1745.15,West,UPI
+ORD10602,2025-11-02,CUST1140,Backpack,Fashion,1,6577.91,North,Net Banking
+ORD11112,2025-09-17,CUST1160,Vacuum Cleaner,Home,2,9810.11,South,Credit Card
+ORD11356,2025-03-25,CUST1223,Jeans,Fashion,3,6082.07,North,Net Banking
+ORD10244,2025-07-03,CUST1395,Cookbook,Books,5,878.85,East,Cash on Delivery
+ORD11134,2025-12-20,CUST1276,Sunscreen,Beauty,2,2963.29,West,Net Banking
+ORD10874,2025-03-14,CUST1052,Headphones,Electronics,2,42597.37,South,Debit Card
+ORD10783,2025-12-09,CUST1367,Mixer Grinder,Home,1,17813.77,South,Cash on Delivery
+ORD10911,2025-07-21,CUST1296,T-Shirt,Fashion,1,3750.74,East,Net Banking
+ORD11094,2025-11-13,CUST1321,Sneakers,Fashion,4,2989.24,North,Net Banking
+ORD11440,2025-03-04,CUST1272,Cookbook,Books,1,2431.97,North,Net Banking
+ORD10583,2025-10-20,CUST1263,Backpack,Fashion,4,1970.21,West,Cash on Delivery
+ORD10309,2025-11-30,CUST1361,Jacket,Fashion,2,6550.04,Central,Net Banking
+ORD10902,2025-07-21,CUST1312,Headphones,Electronics,3,84283.15,West,
+ORD10399,2025-07-08,CUST1082,Shampoo,Beauty,3,1525.44,West,Credit Card
+ORD10424,2025-11-14,CUST1298,Business Book,Books,5,1377.72,Central,Credit Card
+ORD10371,2025-01-13,CUST1295,Backpack,Fashion,1,405.44,West,Cash on Delivery
+ORD10055,2025-11-15,CUST1229,Desk Lamp,Home,3,5913.23,North,Debit Card
+ORD11002,2025-11-10,CUST1133,Business Book,Books,2,1515.01,West,Cash on Delivery
+ORD10619,2025-06-12,CUST1301,Tablet,Electronics,3,51495.79,Central,Credit Card
+ORD10313,2025-05-24,CUST1298,Coffee Maker,Home,1,7523.57,East,Credit Card
+ORD10942,2025-12-14,CUST1399,Desk Lamp,Home,3,5510.41,East,Debit Card
+ORD11293,2025-09-20,CUST1056,Mixer Grinder,Home,2,2741.0,West,Debit Card
+ORD10110,2025-11-07,CUST1150,Laptop,Electronics,3,62697.9,North,Net Banking
+ORD11287,2025-08-12,CUST1290,Sunscreen,Beauty,1,3182.96,East,UPI
+ORD10707,2025-08-06,,Laptop,Electronics,3,5932.69,North,UPI
+ORD10101,2025-09-06,CUST1080,Mixer Grinder,Home,5,4370.15,Central,Net Banking
+ORD10472,2025-07-16,CUST1227,Air Fryer,Home,1,3337.67,Central,UPI
+ORD10794,2025-05-13,CUST1123,Sneakers,Fashion,1,1049.5,West,Debit Card
+ORD11395,2025-11-08,CUST1051,Mixer Grinder,Home,2,16138.8,South,Debit Card
+ORD10267,2025-10-20,CUST1184,Jacket,Fashion,1,5360.03,North,Cash on Delivery
+ORD10694,2025-08-03,CUST1129,Programming Book,Books,3,2141.75,East,Debit Card
+ORD10297,2025-01-08,CUST1091,Mixer Grinder,Home,5,3523.48,East,Credit Card
+ORD11366,2025-12-29,CUST1255,Coffee Maker,Home,1,11744.41,West,UPI
+ORD10965,2025-02-24,CUST1208,Programming Book,Books,4,2457.03,West,Cash on Delivery
+ORD10803,2025-02-15,CUST1050,Sneakers,Fashion,1,3633.26,Central,Credit Card
+ORD10971,2025-06-26,CUST1062,Mixer Grinder,Home,4,1604.83,North,Net Banking
+ORD10378,2025-06-02,CUST1035,Programming Book,Books,1,1827.86,Central,Net Banking
+ORD10287,2025-11-17,CUST1235,Cookbook,Books,3,1233.54,South,Net Banking
+ORD11459,2025-06-29,CUST1029,Laptop,Electronics,1,19616.31,South,UPI
+ORD10746,2025-06-21,CUST1339,Jeans,Fashion,4,2623.86,East,Cash on Delivery
+ORD10127,2025-05-13,CUST1178,Cookbook,Books,1,1672.46,Central,Cash on Delivery
+ORD10328,2025-02-12,CUST1315,Headphones,Electronics,1,54501.92,West,Debit Card
+ORD10293,2025-03-24,CUST1136,Novel,Books,1,1619.48,Central,Cash on Delivery
+ORD10561,2025-11-11,CUST1202,Vacuum Cleaner,Home,3,8284.44,Central,Net Banking
+ORD11375,2025-12-09,CUST1162,Data Science Book,Books,5,697.78,East,Credit Card
+ORD11150,2025-08-26,CUST1159,Coffee Maker,Home,4,7168.94,East,Net Banking
+ORD10356,2025-04-30,CUST1175,Headphones,Electronics,2,33911.66,East,UPI
+ORD11237,2025-11-30,CUST1034,Vacuum Cleaner,Home,2,10204.21,North,Debit Card
+ORD10171,2025-05-13,CUST1365,Headphones,Electronics,2,53508.32,East,Net Banking
+ORD10862,2025-04-30,CUST1082,Backpack,Fashion,1,6539.6,North,Cash on Delivery
+ORD11094,2025-11-13,CUST1321,Sneakers,Fashion,4,2989.24,North,Net Banking
+ORD10637,2025-02-28,CUST1066,T-Shirt,Fashion,4,5513.04,South,Net Banking
+ORD10210,2025-06-13,,Shampoo,Beauty,2,1488.34,West,Credit Card
+ORD10615,2025-06-30,CUST1041,Laptop,Electronics,2,9116.0,East,UPI
+ORD10586,2025-11-15,CUST1368,Desk Lamp,Home,3,8746.26,North,Cash on Delivery
+ORD10141,2025-12-02,CUST1158,Headphones,Electronics,1,82945.15,Central,Cash on Delivery
+ORD11387,2025-12-16,CUST1232,Headphones,Electronics,1,54581.45,West,UPI
+ORD11011,2025-06-26,CUST1057,T-Shirt,Fashion,2,3862.11,East,Credit Card
+ORD10665,2025-10-27,CUST1092,Desk Lamp,Home,4,8218.65,East,Net Banking
+ORD11205,2025-09-07,CUST1100,Cookbook,Books,4,257.55,Central,Credit Card
+ORD10702,2025-04-23,CUST1345,Moisturizer,Beauty,1,3548.32,North,Net Banking
+ORD11455,2025-03-19,CUST1021,Coffee Maker,Home,2,11455.66,East,Net Banking
+ORD10650,2025-03-12,CUST1178,Headphones,Electronics,1,48810.25,North,Credit Card
+ORD10200,2025-04-01,CUST1310,Cookbook,Books,4,2411.41,North,Net Banking
+ORD10910,2025-04-08,CUST1370,Smartphone,Electronics,4,13601.42,North,Cash on Delivery
+ORD11232,2025-04-02,CUST1202,Sunscreen,Beauty,5,1462.19,South,Debit Card
+ORD11075,2025-01-13,CUST1038,Desk Lamp, ELECTRONICS ,1,10860.41,West,Cash on Delivery
+ORD11044,2025-02-02,CUST1336,T-Shirt,Fashion,3,4026.4,North,Net Banking
+ORD10515,2025-01-14,CUST1114,Shampoo,Beauty,5,1056.06,North,Net Banking
+ORD10011,2025-10-09,CUST1289,Laptop,Electronics,4,14379.08,East,UPI
+ORD10148,2025-02-06,CUST1302,Cookbook,Books,1,1947.11,North,Cash on Delivery
+ORD10737,2025-10-29,CUST1045,Cookbook,Books,5,1834.97,East,Net Banking
+ORD10283,2025-07-03,CUST1050,Mixer Grinder,Home,2,14406.29,East,Credit Card
+ORD10299,2025-01-13,CUST1384,Sneakers,Fashion,5,481.82,East,UPI
+ORD10627,2025-11-07,CUST1346,Sunscreen,Beauty,2,4625.84,North,UPI
+ORD10292,2025-05-15,CUST1133,T-Shirt,Fashion,1,2864.33,Central,Credit Card
+ORD11417,2025-04-18,CUST1213,Jeans,Fashion,4,5706.15,West,Net Banking
+ORD10611,2025-05-01,CUST1010,Tablet,Electronics,4,76152.09,East,UPI
+ORD11055,2025-05-31,CUST1098,Sunscreen,Beauty,5,1045.2,South,Debit Card
+ORD11394,2025-11-09,CUST1374,Data Science Book,Books,4,1404.57,South,UPI
+ORD10966,2025-08-05,CUST1363,Desk Lamp,Home,2,7581.27,West,Debit Card
+ORD10130,2025-10-25,CUST1117,Desk Lamp,Home,5,829.87,South,UPI
+ORD10592,2025-08-20,CUST1131,Moisturizer,Beauty,4,371.28,Central,Cash on Delivery
+ORD10332,2025-01-11,CUST1191,Headphones,Electronics,3,24589.4,West,
+ORD10324,2025-03-17,CUST1310,Face Wash,Beauty,1,3689.06,North,UPI
+ORD10723,2025-11-13,CUST1074,Face Wash,Beauty,1,3290.81,East,Net Banking
+ORD11325,2025-10-19,CUST1021,Shampoo,Beauty,4,2913.02,South,Debit Card
+ORD10598,2025-03-23,CUST1160,Cookbook,Books,3,1558.04,East,Debit Card
+ORD10136,2025-06-29,CUST1089,Novel,Books,5,1451.14,South,UPI
+ORD10725,2025-03-18,CUST1039,Business Book,Books,3,1514.16,East,Cash on Delivery
+ORD11294,2025-09-19,CUST1240,Sunscreen,Beauty,3,1911.01,North,Debit Card
+ORD11394,2025-11-09,CUST1374,Data Science Book,Books,4,1404.57,South,UPI
+ORD10436,2025-01-10,CUST1016,Headphones,Electronics,3,75177.67,North,UPI
+ORD10781,2025-08-11,CUST1025,Sunscreen,Beauty,4,829.73,Central,Credit Card
+ORD10793,2025-03-18,CUST1319,Perfume,Beauty,-1,4014.43,North,Credit Card
+ORD11334,2025-12-16,CUST1255,Perfume,Beauty,3,1411.4,East,Debit Card
+ORD10681,2025-11-11,CUST1398,Coffee Maker,Home,1,4913.74,East,Net Banking
+ORD10159,2025-08-21,CUST1393,Vacuum Cleaner,Home,4,7100.73,West,Credit Card
+ORD11031,2025-03-16,CUST1108,Data Science Book,Books,3,857.32,North,UPI
+ORD11312,2025-02-21,CUST1168,Smartwatch,Electronics,4,11193.85,South,UPI
+ORD10984,2025-09-04,CUST1334,Face Wash,Beauty,1,4529.79,East,Credit Card
+ORD10196,2025-05-26,CUST1103,Cookbook,Books,1,2314.14,West,Cash on Delivery
+ORD11259,2025-01-30,CUST1311,Moisturizer,Beauty,4,4273.79,North,Net Banking
+ORD11444,2025-07-05,CUST1282,Laptop,Electronics,1,4718.06,North,UPI
+ORD10411,2025-03-21,CUST1271,Smartwatch,Electronics,2,18367.94,West,Debit Card
+ORD10097,2025-06-01,CUST1215,Tablet,Electronics,1,23802.36,West,Cash on Delivery
+ORD10597,2025-01-16,CUST1143,Cookbook,Books,2,1387.9,South,Debit Card
+ORD10157,2025-11-07,CUST1227,Data Science Book,Books,1,2422.19,South,UPI
+ORD10420,2025-11-27,CUST1356,Sneakers,Fashion,1,6080.84,South,Credit Card
+ORD11166,2025-07-03,CUST1249,Perfume,Beauty,3,1764.62,South,UPI
+ORD10478,2025-11-07,CUST1074,Data Science Book,Books,2,1833.23,West,UPI
+ORD10622,2025-09-24,CUST1305,Headphones,Electronics,5,26284.25,North,Net Banking
+ORD10661,2025-06-15,CUST1285,Face Wash,Beauty,4,2342.15,South,Cash on Delivery
+ORD11457,2025-07-22,CUST1348,Laptop,Electronics,2,22227.34,West,Credit Card
+ORD10448,2025-01-06,CUST1110,Mixer Grinder,Home,2,3782.98,West,Net Banking
+ORD10179,2025-03-23,CUST1358,Smartwatch,Electronics,4,10122.98,South,Credit Card
+ORD10391,2025-03-12,CUST1295,Sneakers,Fashion,5,482.27,North,UPI
+ORD11309,2025-12-19,CUST1268,Headphones,Electronics,4,47141.62,Central,UPI
+ORD11224,2025-01-20,CUST1169,Sneakers,Fashion,2,6521.0,Central,Debit Card
+ORD11260,2025-02-21,CUST1136,T-Shirt,Fashion,4,6872.48,East,Net Banking
+ORD10618,2025-08-27,CUST1018,Jacket,Fashion,3,5824.35,South,Credit Card
+ORD11261,2025-11-11,CUST1174,Tablet,Electronics,-1,15616.84,East,UPI
+ORD11344,2025-10-08,CUST1252,Sunscreen,Beauty,3,751.55,Central,UPI
+ORD11014,2025-09-24,CUST1282,Laptop,Electronics,4,6677.67,Central,UPI
+ORD11499,2025-01-15,CUST1313,Perfume,Beauty,5,3646.69,Central,Cash on Delivery
+ORD10760,2025-06-29,CUST1176,Coffee Maker,Home,2,13618.44,North,Net Banking
+ORD10670,2025-03-13,CUST1386,Smartwatch,Electronics,4,75909.73,North,Net Banking
+ORD10295,2025-03-14,CUST1014,Shampoo,Beauty,4,503.29,West,Net Banking
+ORD10908,2025-06-08,CUST1149,Face Wash,Beauty,4,465.1,South,Cash on Delivery
+ORD10890,2025-04-28,CUST1248,Vacuum Cleaner,Home,5,16512.83,North,Credit Card
+ORD10089,2025-06-20,CUST1337,Backpack,Fashion,3,3567.1,South,Net Banking
+ORD10998,2025-03-26,CUST1205,Air Fryer,Home,4,5549.37,East,Cash on Delivery
+ORD10950,2025-05-31,CUST1342,Headphones,electronics,1,83352.11,West,
+ORD10589,2025-07-26,CUST1247,Data Science Book,Books,2,1239.07,South,Net Banking
+ORD10675,2025-02-25,CUST1111,Air Fryer,Home,3,16195.13,Central,Cash on Delivery
+ORD11407,2025-05-05,CUST1034,Business Book,Books,3,1973.31,Central,Debit Card
+ORD10712,2025-07-12,CUST1187,Cookbook,Books,2,1221.66,North,Debit Card
+ORD10964,2025-05-17,CUST1268,Programming Book,Books,3,506.43,West,Cash on Delivery
+ORD10291,2025-11-25,CUST1331,Smartwatch,Electronics,2,50592.73,East,Credit Card
+ORD11500,2025-03-17,CUST1251,Laptop,Electronics,3,71850.05,North,Credit Card
+ORD10608,2025-12-28,CUST1195,Coffee Maker,Home,5,7881.36,South,Net Banking
+ORD10349,2025-09-06,CUST1366,Air Fryer,Home,1,2443.17,West,Credit Card
+ORD10705,2025-09-05,CUST1147,Sunscreen,Beauty,3,764.09,North,Net Banking
+ORD11432,2025-01-26,CUST1196,Moisturizer,Beauty,1,3159.51,West,Cash on Delivery
+ORD10706,2025-11-28,CUST1392,Business Book,Books,3,2092.4,East,Debit Card
+ORD10847,2025-09-10,CUST1222,T-Shirt,Fashion,1,1262.43,East,Net Banking
+ORD10612,2025-11-18,CUST1044,Face Wash,Beauty,5,2828.65,West,UPI
+ORD10459,2025-11-03,CUST1370,Shampoo,Beauty,5,1163.49,West,Net Banking
+ORD10376,2025-02-22,CUST1231,Novel,Books,2,1707.72,West,Credit Card
+ORD10334,2025-06-14,CUST1219,Coffee Maker,Home,3,12530.51,East,Credit Card
+ORD11199,2025-05-17,CUST1018,Mixer Grinder,Home,4,6724.17,North,Net Banking
+ORD11343,2025-04-26,CUST1206,T-Shirt,Fashion,1,5809.62,North,Credit Card
+ORD11180,2025-04-24,CUST1026,Coffee Maker,Home,5,2935.29,South,Net Banking
+ORD11409,2025-03-14,CUST1133,Business Book,Books,5,790.69,West,UPI
+ORD10579,2025-11-15,CUST1130,Programming Book,Books,1,1126.76,Central,Net Banking
+ORD10329,2025-06-15,CUST1155,Jacket,Fashion,3,6923.75,Central,Debit Card
+ORD10319,2025-07-24,CUST1284,Perfume,Beauty,1,3303.32,East,UPI
+ORD11169,2025-06-18,CUST1204,Desk Lamp,Home,4,9338.79,North,UPI
+ORD11347,2025-08-02,CUST1108,Smartphone,Electronics,4,24466.52,North,Debit Card
+ORD10013,2025-10-06,CUST1388,T-Shirt,Fashion,2,2196.79,West,UPI
+ORD10172,2025-05-07,CUST1045,Novel,Books,1,1984.24,North,Debit Card
+ORD10261,2025-10-06,CUST1183,Perfume,Beauty,2,791.59,Central,Net Banking
+ORD10839,2025-03-21,CUST1117,Jacket,Fashion,5,6018.31,Central,Debit Card
+ORD10880,2025-05-10,CUST1327,Data Science Book,Books,3,1205.25,South,Cash on Delivery
+ORD11472,2025-07-30,CUST1139,Novel,Books,1,260.0,Central,Credit Card
+ORD10139,2025-03-15,CUST1202,Desk Lamp,Home,3,7064.75,West,Cash on Delivery
+ORD10550,2025-05-05,CUST1157,Programming Book,Books,5,882.8,North,Net Banking
+ORD11188,2025-09-01,CUST1315,Backpack,Fashion,1,6133.46,Central,Cash on Delivery
+ORD10865,2025-09-23,CUST1215,Air Fryer,Home,1,5272.67,South,Debit Card
+ORD11023,2025-03-02,CUST1013,Moisturizer,Beauty,1,417.81,Central,Debit Card
+ORD10559,2025-07-21,CUST1029,Air Fryer,Home,2,11376.32,North,Credit Card
+ORD10140,2025-02-01,CUST1135,Smartwatch,Electronics,1,15564.18,Central,Net Banking
+ORD11329,2025-02-17,CUST1092,Business Book,Books,2,2162.54,Central,Cash on Delivery
+ORD11377,2025-11-25,CUST1213,Cookbook,Books,3,1382.26,Central,UPI
+ORD10225,2025-03-25,CUST1178,Backpack,Fashion,4,6294.15,East,Debit Card
+ORD10600,2025-05-06,CUST1181,Perfume,Beauty,2,3306.45,Central,Cash on Delivery
+ORD10410,2025-11-28,CUST1070,Business Book,Books,5,1516.71,East,Net Banking
+ORD10326,2025-04-26,CUST1011,Headphones,Electronics,1,80352.6,South,UPI
+ORD10300,2025-05-04,CUST1333,Jeans,Fashion,2,6801.55,Central,Credit Card
+ORD10905,2025-09-11,CUST1334,Face Wash,Beauty,4,400.66,East,Debit Card
+ORD10931,2025-05-19,CUST1248,Mixer Grinder,Home,5,6965.6,Central,Debit Card
+ORD11189,2025-05-24,CUST1094,Novel,Books,3,890.24,Central,Net Banking
+ORD11410,2025-06-21,CUST1317,Tablet,Electronics,2,75405.08,East,UPI
+ORD10967,2025-10-03,CUST1268,Tablet,Electronics,5,20764.14,West,Net Banking
+ORD11008,2025-04-22,CUST1175,Programming Book,Books,2,2270.64,Central,Debit Card
+ORD10574,2025-03-31,CUST1209,Jeans,Fashion,4,4059.17,South,Credit Card
+ORD10504,2025-05-28,CUST1376,Headphones,Electronics,5,25142.5,West,UPI
+ORD10825,2025-10-01,CUST1182,Tablet, ELECTRONICS ,5,5333.86,Central,Debit Card
+ORD10004,2025-06-20,CUST1200,Smartphone,Electronics,1,13791.18,Central,Credit Card
+ORD10778,2025-02-08,CUST1244,Face Wash,Beauty,5,3647.22,East,Debit Card
+ORD10468,2025-12-15,CUST1230,Smartwatch,Electronics,1,44742.9,West,UPI
+ORD10322,2025-11-22,CUST1360,Vacuum Cleaner,Home,1,10302.23,West,UPI
+ORD10006,2025-04-25,CUST1308,Face Wash,Beauty,5,3491.85,Central,UPI
+ORD10994,2025-04-23,CUST1004,Sunscreen,Beauty,2,2311.15,South,UPI
+ORD10548,2025-11-05,CUST1221,T-Shirt,Fashion,5,3150.43,North,UPI
+ORD10765,2025-02-02,CUST1005,Coffee Maker,Home,4,7171.77,East,Credit Card
+ORD10040,2025-09-11,CUST1202,Vacuum Cleaner,Home,5,11328.77,East,Cash on Delivery
+ORD10543,2025-09-20,CUST1043,Data Science Book,Books,1,977.04,Central,Debit Card
+ORD10243,2025-01-07,CUST1053,Vacuum Cleaner,Home,2,5298.5,North,UPI
+ORD10137,2025-03-24,CUST1001,Sneakers,Fashion,1,4704.9,East,UPI
+ORD11203,2025-04-08,CUST1024,Sneakers,Fashion,1,4775.88,West,Debit Card
+ORD10616,2025-03-12,CUST1037,Smartphone,Electronics,2,68180.92,East,Net Banking
+ORD11122,2025-04-06,CUST1157,Novel,Books,3,1048.43,East,Cash on Delivery
+ORD11103,2025-12-08,CUST1307,Jacket,Fashion,1,5001.46,West,Cash on Delivery
+ORD11486,2025-08-02,CUST1121,Moisturizer,Beauty,5,1588.25,West,Credit Card
+ORD11385,2025-07-09,CUST1028,Tablet,Electronics,3,64335.22,East,Debit Card
+ORD10582,2025-03-10,CUST1160,Shampoo,Beauty,5,2774.65,North,Debit Card
+ORD11495,2025-01-24,CUST1215,Business Book,Books,3,781.46,West,Debit Card
+ORD10807,2025-07-30,CUST1284,Data Science Book,Books,3,733.8,East,Credit Card
+ORD11408,2025-06-28,CUST1160,Mixer Grinder,Home,1,4954.66,Central,Credit Card
+ORD10377,2025-07-31,CUST1038,Vacuum Cleaner,Home,3,13874.08,North,Debit Card
+ORD10315,2025-04-21,CUST1246,Vacuum Cleaner,Home,3,8863.54,East,Net Banking
+ORD10443,2025-01-05,CUST1372,Air Fryer,Home,2,6355.71,North,
+ORD10320,2025-04-02,CUST1331,Air Fryer,Home,1,4616.68,East,Debit Card
+ORD11151,2025-05-30,CUST1048,Laptop,Electronics,2,59178.71,West,Net Banking
+ORD10812,2025-02-26,CUST1041,Air Fryer,Home,1,939.56,West,Debit Card
+ORD11147,2025-02-16,CUST1231,T-Shirt,Fashion,5,4787.69,West,Net Banking
+ORD10425,2025-10-09,CUST1002,Jacket,Fashion,3,1890.14,North,Debit Card
+ORD10554,2025-06-12,CUST1306,Programming Book,Books,2,1212.76,East,UPI
+ORD10595,2025-10-22,CUST1091,Perfume,Beauty,5,1554.76,East,Net Banking
+ORD11253,2025-08-03,CUST1391,Cookbook,Books,3,770.67,West,Debit Card
+ORD10671,2025-03-05,CUST1050,Smartphone,Electronics,3,72714.27,Central,Cash on Delivery
+ORD10788,2025-06-14,CUST1310,Jeans,Fashion,1,3411.26,East,UPI
+ORD11235,2025-12-23,CUST1102,Desk Lamp,Home,4,8289.94,East,Credit Card
+ORD10680,2025-03-30,CUST1393,Programming Book,Books,3,1878.84,Central,UPI
+ORD10228,2025-08-24,CUST1100,Jeans,Fashion,4,5097.26,West,Net Banking
+ORD11320,2025-04-25,CUST1146,Sunscreen,Beauty,1,2039.33,Central,Net Banking
+ORD10904,2025-04-07,CUST1225,T-Shirt,Fashion,5,6979.67,East,Cash on Delivery
+ORD11000,2025-05-28,CUST1002,Programming Book,Books,5,1502.49,South,UPI
+ORD11179,2025-05-08,CUST1375,Laptop,fashion,5,54274.81,North,Cash on Delivery
+ORD10067,2025-11-03,CUST1338,Air Fryer,Home,5,12294.52,West,Net Banking
+ORD10394,2025-10-27,CUST1150,Desk Lamp,Home,1,9401.82,Central,
+ORD10580,2025-04-11,CUST1229,Smartwatch,Electronics,5,40742.98,South,Credit Card
+ORD11010,2025-04-05,CUST1113,Smartwatch,Electronics,4,14003.81,East,Cash on Delivery
+ORD10212,2025-11-29,CUST1045,Sunscreen,Beauty,2,3203.84,North,Net Banking
+ORD11175,2025-06-02,CUST1113,Face Wash,Beauty,4,4805.07,North,Debit Card
+ORD10800,2025-09-18,CUST1265,Mixer Grinder,Home,3,10310.55,Central,UPI
+ORD10537,2025-07-09,CUST1290,Cookbook,Books,2,2080.43,North,UPI
+ORD10850,2025-09-19,CUST1371,Perfume,Beauty,2,2737.97,East,Net Banking
+ORD10949,2025-07-27,CUST1353,Cookbook,Books,1,602.34,West,UPI
+ORD10086,2025-12-17,CUST1296,Tablet,Electronics,1,4258.86,West,Credit Card
+ORD11369,2025-05-16,CUST1269,Smartphone,Electronics,3,44081.28,West,UPI
+ORD10273,2025-01-02,CUST1073,Air Fryer,Home,4,3719.49,South,Cash on Delivery
+ORD11133,2025-11-21,CUST1298,Coffee Maker,Home,4,4587.96,West,Cash on Delivery
+ORD10866,2025-07-30,CUST1047,Cookbook,Books,3,1725.78,East,Debit Card
+ORD11463,2025-04-19,CUST1400,Coffee Maker,Home,3,15458.69,East,UPI
+ORD10631,2025-08-18,CUST1239,Coffee Maker,Home,2,14870.06,East,Net Banking
+ORD10656,2025-03-12,CUST1228,Smartwatch,Electronics,5,13264.4,North,UPI
+ORD11419,2025-12-09,CUST1370,Headphones,Electronics,4,30962.13,East,UPI
+ORD11281,2025-03-28,CUST1343,Novel,Books,5,2162.32,West,UPI
+ORD10274,2025-01-25,CUST1011,Tablet,Electronics,3,7559.35,North,Debit Card
+ORD10758,2025-05-22,CUST1049,Backpack,Fashion,3,4195.1,West,Cash on Delivery
+ORD10363,2025-02-01,CUST1244,Smartwatch,Electronics,4,19488.38,South,Debit Card
+ORD10623,2025-11-09,CUST1123,Shampoo,Beauty,3,3423.79,West,Cash on Delivery
+ORD10003,2025-11-10,CUST1332,Novel,Books,2,2001.36,West,Net Banking
+ORD10007,2025-10-18,CUST1315,Novel,Books,4,564.54,West,Credit Card
+ORD10312,2025-04-17,CUST1332,Data Science Book,Books,5,2484.47,North,Debit Card
+ORD10678,2025-08-11,CUST1090,Smartphone,Electronics,1,42328.23,South,Net Banking
+ORD10666,2025-05-12,CUST1148,Sneakers,Fashion,2,5676.47,West,Debit Card
+ORD10959,2025-10-03,CUST1242,Moisturizer,Beauty,4,690.44,East,Credit Card
+ORD11498,2025-02-15,CUST1164,Tablet,Electronics,5,56667.14,South,Credit Card
+ORD10216,2025-12-03,CUST1134,Jeans,Fashion,3,3373.8,North,UPI
+ORD11030,2025-11-09,CUST1002,Sunscreen,Beauty,4,3997.87,South,UPI
+ORD10028,2025-02-21,CUST1300,Smartwatch,Electronics,3,82156.73,West,Net Banking
+ORD11095,2025-04-17,CUST1316,Sneakers,Fashion,5,488.26,South,Debit Card
+ORD10900,2025-04-30,CUST1244,Novel,Books,4,963.54,Central,Net Banking
+ORD10692,2025-03-02,CUST1045,Laptop,Electronics,3,51941.86,South,Credit Card
+ORD10639,2025-12-03,CUST1373,Laptop, ELECTRONICS ,1,80844.64,West,UPI
+ORD10768,2025-12-20,CUST1097,Mixer Grinder,Home,3,4498.82,South,UPI
+ORD10846,2025-05-11,CUST1091,Moisturizer,Beauty,1,1024.05,South,Debit Card
+ORD10625,2025-05-12,CUST1253,Laptop,Electronics,1,25601.06,Central,Cash on Delivery
+ORD10869,2025-05-29,CUST1141,Jeans,Fashion,3,813.85,South,Debit Card
+ORD10257,2025-06-26,CUST1330,Jeans,Fashion,5,6786.11,South,Cash on Delivery
+ORD10026,2025-10-21,CUST1011,Tablet,Electronics,4,63022.45,Central,Credit Card
+ORD10337,2025-12-16,CUST1173,Backpack,Fashion,1,3866.87,West,Debit Card
+ORD10573,2025-12-08,CUST1311,Air Fryer,Home,5,5775.39,West,Credit Card
+ORD10048,2025-04-21,CUST1207,Sneakers,Fashion,5,6980.43,West,Cash on Delivery
+ORD10107,2025-02-16,CUST1019,T-Shirt,Fashion,1,3670.34,East,UPI
+ORD10350,2025-04-14,CUST1064,Coffee Maker,Home,3,8816.01,Central,Debit Card
+ORD10056,2025-02-24,CUST1185,Novel,Books,3,875.67,North,Credit Card
+ORD10827,2025-10-22,CUST1135,Jacket,Fashion,5,4358.03,East,Cash on Delivery
+ORD10214,2025-06-10,CUST1334,Air Fryer,Home,4,15054.67,East,Debit Card
+ORD10121,2025-09-30,CUST1300,Coffee Maker,Home,2,12117.93,Central,Net Banking
+ORD10889,2025-09-04,CUST1003,Mixer Grinder,Home,2,5861.1,Central,UPI
+ORD10985,2025-11-23,CUST1393,Vacuum Cleaner,Home,5,6483.84,North,Credit Card
+ORD10073,2025-02-09,CUST1394,Jacket,Fashion,1,2686.85,South,Debit Card
+ORD10837,2025-12-25,CUST1228,Cookbook,Books,1,1445.53,South,Net Banking
+ORD10875,2025-12-07,CUST1334,Programming Book,Books,3,451.42,West,Debit Card
+ORD10046,2025-06-24,CUST1056,Sunscreen,Beauty,2,812.77,Central,Net Banking
+ORD11346,2025-11-06,CUST1102,Face Wash,Beauty,3,3837.35,South,Credit Card
+ORD10524,2025-05-20,CUST1198,Backpack,Fashion,3,5958.8,Central,Net Banking
+ORD10888,2025-12-12,CUST1261,Vacuum Cleaner,,2,17586.99,South,UPI
+ORD10809,2025-09-03,CUST1226,Backpack,Fashion,3,2710.93,West,Cash on Delivery
+ORD10883,2025-07-18,CUST1265,Shampoo,Beauty,3,2358.01,North,Net Banking
+ORD10813,2025-11-03,CUST1127,Sunscreen,Beauty,1,4939.87,East,Debit Card
+ORD10534,2025-04-26,CUST1245,Sunscreen,Beauty,4,3414.53,West,UPI
+ORD11152,2025-07-08,CUST1021,Mixer Grinder,Home,4,7197.25,Central,UPI
+ORD10604,2025-06-10,CUST1050,Smartwatch,Electronics,2,77985.73,South,Debit Card
+ORD10466,2025-09-18,CUST1045,Cookbook,Books,1,1140.93,South,Credit Card
+ORD11162,2025-12-04,CUST1326,Laptop,Electronics,1,69910.29,North,Cash on Delivery
+ORD11297,2025-12-20,CUST1162,Shampoo,Beauty,2,4834.21,North,Debit Card
+ORD10821,2025-11-22,CUST1145,Sunscreen,Beauty,4,4148.38,South,Net Banking
+ORD10968,2025-04-24,CUST1380,Programming Book,Books,4,1820.72,North,UPI
+ORD10061,2025-11-14,CUST1337,Laptop,Electronics,5,24427.48,North,Cash on Delivery
+ORD10906,2025-03-24,CUST1158,Jacket,Fashion,2,5879.66,Central,UPI
+ORD10093,2025-12-20,CUST1242,Jeans,Fashion,5,2501.43,Central,Credit Card
+ORD10667,2025-04-17,CUST1212,Sneakers,Fashion,1,2097.14,North,Net Banking
+ORD10721,2025-07-02,CUST1146,Mixer Grinder,Home,1,1847.21,West,Cash on Delivery
+ORD10195,2025-08-21,CUST1107,Jacket,Fashion,4,6629.07,South,Debit Card
+ORD10281,2025-02-05,CUST1096,Programming Book,Books,3,350.98,North,Credit Card
+ORD10696,2025-04-17,CUST1307,Shampoo,Beauty,1,1544.7,East,Debit Card
+ORD10360,2025-08-25,CUST1011,Tablet,Electronics,4,52549.84,East,Credit Card
+ORD10520,2025-09-29,CUST1091,Smartwatch,Electronics,1,22441.09,West,Debit Card
+ORD11126,2025-08-17,CUST1329,Headphones,Electronics,4,47674.45,West,UPI
+ORD10786,2025-06-08,CUST1257,Jeans,Fashion,4,6285.23,East,Net Banking
+ORD10183,2025-03-05,CUST1126,Cookbook,Books,1,780.99,South,Debit Card
+ORD11120,2025-04-02,CUST1008,Sneakers,Fashion,5,6238.13,Central,UPI
+ORD10111,2025-08-09,CUST1377,Smartphone,Electronics,3,76253.48,North,Net Banking
+ORD10043,2025-07-08,CUST1197,Cookbook,Books,2,1730.19,East,Net Banking
+ORD11439,2025-08-09,CUST1027,Smartwatch,Electronics,3,1891.87,South,Net Banking
+ORD10205,2025-03-23,CUST1299,Jacket,Fashion,4,5543.18,Central,Debit Card
+ORD10840,2025-02-17,CUST1394,Perfume,Beauty,3,1355.47,Central,UPI
+ORD10053,2025-01-20,CUST1078,Cookbook,Books,1,1636.7,South,UPI
+ORD10546,2025-04-10,CUST1282,Vacuum Cleaner,Home,4,6588.29,East,Credit Card
+ORD11121,2025-11-05,CUST1252,Programming Book,Books,5,436.4,North,Debit Card
+ORD10915,2025-06-10,CUST1021,Cookbook,Books,2,701.09,North,Debit Card
+ORD10943,2025-05-28,CUST1337,Coffee Maker,Home,1,13151.02,East,Debit Card
+ORD10349,2025-09-06,CUST1366,Air Fryer,Home,1,2443.17,West,Credit Card
+ORD10184,2025-12-06,CUST1146,Face Wash,Beauty,3,3164.2,Central,Cash on Delivery
+ORD10138,2025-11-11,CUST1108,Laptop,Electronics,5,46178.9,East,Credit Card
+ORD11138,2025-09-28,CUST1107,Tablet,Electronics,5,84643.73,East,Cash on Delivery
+ORD10081,2025-05-09,CUST1081,Laptop,Electronics,3,38966.17,North,Cash on Delivery
+ORD11230,2025-01-31,CUST1092,Programming Book,Books,1,694.67,North,Credit Card
+ORD10106,2025-02-06,CUST1190,Mixer Grinder,Home,4,5511.36,North,Debit Card
+ORD10542,2025-05-26,CUST1182,Mixer Grinder,Home,4,17768.01,Central,Cash on Delivery
+ORD10755,2025-06-03,CUST1008,Smartphone,Electronics,2,37343.19,West,Credit Card
+ORD10481,2025-05-03,CUST1110,Smartphone,Electronics,2,26872.7,West,UPI
+ORD10166,2025-04-24,CUST1317,Data Science Book,Books,1,1842.65,East,Cash on Delivery
+ORD10249,2025-07-12,CUST1066,T-Shirt,Fashion,1,4446.52,East,Net Banking
+ORD10308,2025-11-20,CUST1369,Air Fryer,Home,5,14071.09,South,Cash on Delivery
+ORD10447,2025-01-04,CUST1010,Moisturizer,Beauty,5,3947.21,North,UPI
+ORD11413,2025-04-11,CUST1397,Novel,Books,3,1278.99,North,Net Banking
+ORD10335,2025-03-11,CUST1315,Face Wash,Beauty,2,3042.15,East,Debit Card
+ORD10098,2025-01-07,CUST1021,Novel,Books,3,1495.47,East,Credit Card
+ORD11464,2025-02-05,CUST1318,Jacket,Fashion,1,5961.59,West,Credit Card
+ORD10738,2025-11-03,CUST1074,T-Shirt,Fashion,1,585.26,West,Debit Card
+ORD10856,2025-11-30,CUST1273,Moisturizer,Beauty,2,1387.28,South,Net Banking
+ORD10963,2025-10-01,CUST1216,Vacuum Cleaner,Home,2,13767.07,South,UPI
+ORD10103,2025-07-03,CUST1040,Cookbook,Books,1,1868.45,South,Cash on Delivery
+ORD10435,2025-09-08,CUST1016,Air Fryer,Home,2,10086.01,West,Debit Card
+ORD10075,2025-04-08,,Jacket,Fashion,3,721.41,Central,Net Banking
+ORD11360,2025-07-30,CUST1362,Business Book,Books,1,1869.21,Central,Debit Card
+ORD11263,2025-04-29,CUST1311,Smartwatch,Electronics,1,44525.49,Central,Debit Card
+ORD11379,2025-09-24,CUST1338,Moisturizer,Beauty,5,4921.26,Central,UPI
+ORD10303,2025-06-17,CUST1262,Face Wash,Beauty,1,4177.18,Central,UPI
+ORD11313,2025-09-28,CUST1301,Air Fryer,Home,5,16371.44,South,Net Banking
+ORD11282,2025-01-23,CUST1290,Desk Lamp,Home,2,15752.08,South,Credit Card
+ORD11241,2025-04-01,CUST1190,Jacket,Fashion,5,5962.62,North,UPI
+ORD10763,2025-06-26,CUST1099,Vacuum Cleaner,Home,3,8748.78,South,Net Banking
+ORD10734,2025-06-28,CUST1386,Programming Book,Books,5,1754.57,North,Cash on Delivery
+ORD10389,2025-02-18,CUST1011,Business Book,Books,1,356.57,Central,Cash on Delivery
+ORD10236,2025-11-05,CUST1293,Mixer Grinder,Home,3,8422.54,South,Cash on Delivery
+ORD11264,2025-05-12,CUST1348,T-Shirt,Fashion,2,6611.16,East,Cash on Delivery
+ORD10268,2025-08-18,CUST1371,Business Book,Books,4,1501.43,West,Credit Card
+ORD10306,2025-02-15,CUST1328,Perfume,Beauty,2,4726.9,East,Debit Card
+ORD10808,2025-03-21,CUST1333,Smartphone,Electronics,5,7975.67,West,UPI
+ORD10118,2025-06-09,CUST1115,Business Book,Books,4,1281.09,West,UPI
+ORD11229,2025-12-12,CUST1169,Jacket,electronics,1,4484.06,South,Net Banking
+ORD10674,2025-01-24,CUST1124,Moisturizer,Beauty,1,3339.94,East,Cash on Delivery
+ORD10250,2025-01-15,CUST1378,Air Fryer,Home,1,5438.58,Central,Credit Card
+ORD11107,2025-06-06,,Sunscreen,Beauty,4,851.64,East,Cash on Delivery
+ORD11092,2025-08-08,CUST1008,Sunscreen,Beauty,1,4647.85,South,Cash on Delivery
+ORD10072,2025-12-18,CUST1250,Moisturizer,Beauty,4,2340.42,Central,Net Banking
+ORD10095,2025-04-21,CUST1296,Cookbook,Books,5,1809.46,South,UPI
+ORD11036,2025-02-19,CUST1120,Moisturizer,Beauty,3,1259.35,South,Debit Card
+ORD10034,2025-03-08,CUST1356,Headphones,Electronics,2,21798.43,Central,Debit Card
+ORD11115,2025-07-29,CUST1269,T-Shirt,Fashion,5,2808.13,North,Cash on Delivery
+ORD10449,2025-04-04,CUST1320,Perfume,Beauty,5,2296.7,East,Cash on Delivery
+ORD10446,2025-03-24,CUST1143,Business Book,Books,3,1820.83,North,Credit Card
+ORD10772,2025-02-28,CUST1056,Tablet,Electronics,2,72711.47,East,Credit Card
+ORD10717,2025-02-09,CUST1097,Jeans,Fashion,5,1168.77,South,UPI
+ORD10907,2025-12-28,CUST1222,Headphones,Electronics,5,36789.18,West,Credit Card
+ORD11243,2025-12-02,CUST1322,Sneakers,Fashion,1,5742.5,Central,Credit Card
+ORD11177,2025-09-24,CUST1067,Smartphone,Electronics,1,41292.43,South,Net Banking
+ORD11047,2025-09-14,CUST1301,Smartwatch,Electronics,2,33940.74,South,Cash on Delivery
+ORD10078,2025-05-08,CUST1312,Business Book,Books,5,2244.75,Central,UPI
+ORD10085,2025-06-21,CUST1075,Desk Lamp,Home,1,11995.55,East,UPI
+ORD11160,2025-05-12,CUST1301,Sunscreen,Beauty,1,3159.95,North,Debit Card
+ORD10083,2025-08-15,CUST1262,Vacuum Cleaner,Home,1,6279.12,South,UPI
+ORD10458,2025-01-15,CUST1232,Data Science Book,Books,5,1742.46,East,Debit Card
+ORD10939,2025-04-01,CUST1312,Face Wash,Beauty,4,2359.09,Central,UPI
+ORD10677,2025-12-08,CUST1382,Laptop,Electronics,3,82256.2,Central,UPI
+ORD11005,2025-08-20,CUST1093,Smartwatch,Electronics,5,80699.02,North,Credit Card
+ORD11090,2025-11-25,CUST1109,T-Shirt,Fashion,2,1146.15,South,UPI
+ORD10437,2025-03-29,CUST1269,Moisturizer,Beauty,5,4963.17,East,Cash on Delivery
+ORD10771,2025-12-18,CUST1015,Tablet,Electronics,1,61560.53,East,Cash on Delivery
+ORD10645,2025-01-21,CUST1052,Cookbook,Books,5,250.71,South,Credit Card
+ORD10842,2025-08-08,CUST1084,Moisturizer,Beauty,3,4091.41,South,Cash on Delivery
+ORD10926,2025-07-02,CUST1037,Tablet,Electronics,4,39877.29,Central,UPI
+ORD11210,2025-06-21,CUST1172,Face Wash,Beauty,1,2331.4,West,UPI
+ORD10405,2025-02-25,CUST1225,Face Wash,Beauty,5,1504.16,South,UPI
+ORD11323,2025-09-24,CUST1296,Smartwatch,Electronics,4,67539.65,North,UPI
+ORD11214,2025-06-28,CUST1250,Headphones,Electronics,3,84920.35,South,Cash on Delivery
+ORD11099,2025-05-17,CUST1263,Smartwatch,Electronics,1,36225.66,Central,Cash on Delivery
+ORD10105,2025-05-04,CUST1151,Laptop,Electronics,2,11839.35,South,Net Banking
+ORD10610,2025-01-02,CUST1007,Smartwatch,Electronics,3,45284.07,South,UPI
+ORD11405,2025-05-21,CUST1258,Programming Book,Books,1,1273.69,Central,Credit Card
+ORD10689,2025-12-17,CUST1315,Face Wash,Beauty,4,455.88,Central,Cash on Delivery
+ORD10969,2025-06-09,CUST1263,Tablet,Electronics,1,18382.55,South,Cash on Delivery
+ORD11332,2025-02-08,CUST1374,Tablet,Electronics,2,30161.28,East,Credit Card
+ORD10063,2025-06-14,CUST1309,Tablet,Electronics,3,58701.4,South,Net Banking
+ORD10282,2025-01-27,CUST1340,Face Wash,Beauty,3,3077.15,Central,Credit Card
+ORD10779,2025-03-08,CUST1395,Laptop,Electronics,4,35484.16,North,Credit Card
+ORD11387,2025-12-16,CUST1232,Headphones,Electronics,1,54581.45,West,UPI
+ORD10239,2025-05-03,CUST1183,T-Shirt,Fashion,2,3900.91,South,Net Banking
+ORD10224,2025-08-28,CUST1357,Smartphone,Electronics,2,6268.52,North,UPI
+ORD10146,2025-09-06,CUST1011,Smartphone,Electronics,2,9149.02,West,Cash on Delivery
+ORD11418,2025-09-14,CUST1174,Laptop,Electronics,4,33007.93,South,UPI
+ORD10374,2025-09-03,CUST1070,Cookbook,Books,4,1070.53,West,UPI
+ORD11246,2025-06-21,CUST1070,Backpack,Fashion,3,6815.56,West,UPI
+ORD10119,2025-10-15,CUST1253,Sneakers,Fashion,3,5192.79,South,Net Banking
+ORD11142,2025-03-22,CUST1140,Smartphone,Electronics,1,10507.05,East,Net Banking
+ORD10251,2025-12-24,CUST1136,T-Shirt,Fashion,2,1733.95,South,Credit Card
+ORD11465,2025-10-27,CUST1066,Headphones,Electronics,2,51802.39,West,Debit Card
+ORD11226,2025-07-09,CUST1127,Smartwatch,Electronics,2,82109.39,Central,UPI
+ORD11097,2025-10-23,CUST1135,Jacket,Fashion,5,2264.23,West,Cash on Delivery
+ORD10010,2025-08-30,CUST1051,Vacuum Cleaner,Home,3,12192.62,South,UPI
+ORD10450,2025-04-13,CUST1059,Sneakers,Fashion,4,4543.16,East,Net Banking
+ORD11173,2025-02-11,CUST1391,Sneakers,Fashion,4,4494.48,North,Cash on Delivery
+ORD10709,2025-09-14,CUST1380,Backpack,Fashion,3,6197.33,Central,Net Banking
+ORD10256,2025-04-30,CUST1297,Backpack,Fashion,3,3717.68,West,Debit Card
+ORD10594,2025-02-25,CUST1071,Air Fryer,Home,2,4952.07,Central,UPI
+ORD10390,2025-01-10,CUST1189,Smartphone,Electronics,3,6825.73,East,Credit Card
+ORD11043,2025-12-18,CUST1102,Tablet,Electronics,2,18812.22,South,Debit Card
+ORD11218,2025-11-02,CUST1188,Coffee Maker,Home,3,6917.24,South,Debit Card
+ORD10558,2025-09-30,CUST1303,Data Science Book,Books,4,757.69,East,Net Banking
+ORD11350,2025-05-11,CUST1078,Backpack,Fashion,5,2653.05,South,UPI
+ORD10859,2025-07-15,CUST1259,Face Wash,Beauty,4,3304.63,Central,Net Banking
+ORD10461,2025-01-11,CUST1190,Headphones,Electronics,5,33332.69,Central,Credit Card
+ORD10724,2025-10-10,CUST1293,Moisturizer,Beauty,2,3674.57,Central,Credit Card
+ORD11401,2025-09-14,CUST1170,Sneakers,Fashion,2,5117.36,East,UPI
+ORD10145,2025-11-03,CUST1357,Face Wash,Beauty,1,1272.1,East,Debit Card
+ORD10502,2025-04-12,CUST1232,Programming Book,Books,5,1401.6,South,Debit Card
+ORD11113,2025-06-19,CUST1267,Perfume,Beauty,1,3037.27,East,Credit Card
+ORD10740,2025-05-23,CUST1185,Desk Lamp,Home,1,10400.61,South,Cash on Delivery
+ORD11404,2025-05-24,CUST1184,Desk Lamp,Home,4,15117.24,East,Net Banking
+ORD10732,2025-04-01,CUST1111,Jacket,Fashion,1,1690.26,Central,Credit Card
+ORD10540,2025-11-07,CUST1298,Perfume,Beauty,5,4585.5,North,Cash on Delivery
+ORD10178,2025-07-04,CUST1019,Data Science Book,Books,4,696.81,South,Net Banking
+ORD11467,2025-11-11,CUST1051,Moisturizer,Beauty,5,802.72,North,Net Banking
+ORD10698,2025-03-03,CUST1201,Jeans,Fashion,5,703.18,Central,Credit Card
+ORD11390,2025-07-09,CUST1285,Face Wash,Beauty,1,4682.88,North,Debit Card
+ORD11316,2025-12-03,CUST1339,Moisturizer,Beauty,3,4356.84,South,Credit Card
+ORD10923,2025-05-04,CUST1297,Desk Lamp,Home,2,5350.71,South,UPI
+ORD10919,2025-02-09,CUST1090,Shampoo,Beauty,4,395.4,West,Cash on Delivery
+ORD10744,2025-07-13,CUST1141,Sneakers,Fashion,4,1923.95,South,UPI
+ORD10008,2025-09-01,CUST1262,Headphones,Electronics,3,48392.88,West,Credit Card
+ORD10882,2025-01-08,CUST1075,Laptop,Electronics,5,84998.07,Central,Credit Card
+ORD10668,2025-08-13,CUST1234,Programming Book,Books,5,621.06,Central,Debit Card
+ORD11176,2025-05-04,CUST1224,Cookbook,Books,2,1050.88,Central,Debit Card
+ORD10358,2025-09-15,CUST1288,Novel,Books,4,2329.63,West,Net Banking
+ORD10784,2025-08-07,CUST1315,Mixer Grinder,Home,5,8039.12,Central,Cash on Delivery
+ORD10736,2025-08-13,CUST1096,Data Science Book,Books,2,2303.57,East,Cash on Delivery
+ORD10330,2025-05-09,CUST1214,Perfume,Beauty,4,541.19,West,UPI
+ORD11211,2025-05-02,CUST1357,Mixer Grinder,Home,1,2876.1,Central,Cash on Delivery
+ORD11164,2025-10-01,CUST1227,Data Science Book,,4,273.82,West,Cash on Delivery
+ORD11132,2025-01-19,CUST1061,Air Fryer,Home,3,1928.34,West,Net Banking
+ORD10259,2025-05-03,CUST1240,Mixer Grinder,Home,1,9561.8,Central,Credit Card
+ORD11191,2025-08-25,CUST1378,Headphones,Electronics,1,38727.54,East,UPI
+ORD10373,2025-01-20,CUST1286,Novel,Books,1,1609.3,West,Credit Card
+ORD11118,2025-02-28,CUST1312,Laptop,Electronics,1,9893.02,East,Net Banking
+ORD11058,2025-10-01,CUST1202,Jacket,Fashion,2,2951.41,Central,UPI
+ORD10143,2025-08-15,CUST1105,Vacuum Cleaner,Home,2,15000.38,East,UPI
+ORD10526,2025-12-20,CUST1267,Air Fryer,Home,1,3563.69,North,Cash on Delivery
+ORD11415,2025-12-26,CUST1111,Data Science Book,Books,2,2284.7,East,Credit Card
+ORD10233,2025-01-09,CUST1148,Smartwatch,Electronics,5,19288.6,North,Cash on Delivery
+ORD11271,2025-10-14,CUST1074,Vacuum Cleaner,Home,1,15721.22,South,UPI
+ORD11443,2025-10-15,CUST1125,Novel,Books,4,1873.13,West,Cash on Delivery
+ORD10441,2025-06-19,CUST1076,Moisturizer,Beauty,1,1438.31,Central,Net Banking
+ORD10532,2025-02-11,CUST1092,Headphones,Electronics,2,37108.3,East,Debit Card
+ORD11386,2025-08-25,CUST1195,Coffee Maker,Home,2,727.18,West,
+ORD10227,2025-12-03,CUST1191,T-Shirt,Fashion,4,2724.6,South,Credit Card
+ORD11048,2025-03-10,CUST1168,Laptop,Electronics,5,66803.84,North,Cash on Delivery
+ORD10229,2025-03-07,CUST1018,Moisturizer,Beauty,5,4165.97,South,Debit Card
+ORD11299,2025-02-17,CUST1346,Business Book,Books,2,2420.49,Central,Credit Card
+ORD11317,2025-05-12,CUST1201,Coffee Maker,Home,3,7760.81,South,Credit Card
+ORD10213,2025-04-30,CUST1278,Novel,Books,4,445.1,West,Cash on Delivery
+ORD10886,2025-03-02,CUST1117,Jacket,Fashion,1,5490.5,West,UPI
+ORD10080,2025-12-31,CUST1343,Sneakers,Fashion,4,6440.97,North,Credit Card
+ORD10149,2025-02-22,CUST1399,Shampoo,Beauty,3,2990.09,North,Cash on Delivery
+ORD10815,2025-08-10,CUST1301,Shampoo,Beauty,1,1052.92,West,Debit Card
+ORD10924,2025-07-05,CUST1368,Mixer Grinder,Home,2,12865.11,Central,Debit Card
+ORD10933,2025-12-10,CUST1231,Programming Book,Books,1,1808.92,Central,Net Banking
+ORD10672,2025-07-15,CUST1036,Sunscreen,Beauty,3,3176.41,Central,Debit Card
+ORD11171,2025-10-01,CUST1328,Laptop,Electronics,4,53992.76,South,Cash on Delivery
+ORD10556,2025-07-04,CUST1139,Sneakers,Fashion,1,2164.4,West,Credit Card
+ORD11367,2025-03-20,CUST1093,Vacuum Cleaner,Home,5,3205.61,West,Debit Card
+ORD10134,2025-07-08,CUST1043,Novel,Books,1,1205.75,South,UPI
+ORD11202,2025-05-11,CUST1303,Mixer Grinder,Home,1,747.89,North,Net Banking
+ORD10824,2025-09-26,CUST1211,Programming Book,Books,2,1596.99,North,Debit Card
+ORD10409,2025-10-17,CUST1387,T-Shirt,Fashion,5,3102.72,East,Cash on Delivery
+ORD10369,2025-09-25,CUST1378,Sunscreen,fashion,1,3676.5,East,Debit Card
+ORD10508,2025-07-09,CUST1352,Face Wash,Beauty,4,3193.47,Central,Net Banking
+ORD11198,2025-09-08,CUST1163,Desk Lamp,Home,1,5338.6,Central,Credit Card
+ORD10505,2025-12-07,CUST1063,Tablet,Electronics,5,19019.98,Central,UPI
+ORD11352,2025-04-13,CUST1309,Sunscreen,Beauty,3,3749.09,West,UPI
+ORD10348,2025-02-26,CUST1038,Programming Book,Books,4,603.31,East,UPI
+ORD10387,2025-01-13,CUST1111,Sneakers,Fashion,1,4547.95,North,
+ORD10001,2025-08-27,CUST1176,Smartwatch,Electronics,3,59518.39,Central,Debit Card
+ORD10361,2025-10-20,CUST1177,Vacuum Cleaner,Home,1,7168.85,South,UPI
+ORD10895,2025-01-14,CUST1400,Jeans,Fashion,1,6322.32,Central,UPI
+ORD10829,2025-03-22,CUST1371,Coffee Maker,Home,1,2175.63,West,UPI
+ORD11435,2025-06-27,CUST1262,Mixer Grinder,Home,2,7318.66,North,Net Banking
+ORD10476,2025-05-19,CUST1017,Business Book,Books,5,1331.26,East,Credit Card
+ORD11300,2025-09-27,CUST1030,Mixer Grinder,Home,2,14622.86,West,Credit Card
+ORD10058,2025-06-02,CUST1191,Smartphone,Electronics,3,19794.92,East,Net Banking
+ORD10638,2025-06-21,CUST1134,Moisturizer,Beauty,1,2077.77,West,Net Banking
+ORD11326,2025-04-15,CUST1290,Sneakers,Fashion,1,4912.48,South,Credit Card
+ORD11421,2025-09-19,CUST1064,Cookbook,Books,3,2477.52,South,UPI
+ORD10974,2025-02-27,CUST1129,T-Shirt,Fashion,5,2851.71,West,Cash on Delivery
+ORD10173,2025-08-14,CUST1129,Sneakers,Fashion,1,1909.06,West,Net Banking
+ORD10451,2025-04-15,CUST1109,Vacuum Cleaner,Home,1,11501.47,South,Debit Card
+ORD10126,2025-08-17,CUST1026,Air Fryer,Home,2,7614.4,West,Cash on Delivery
+ORD11001,2025-11-09,CUST1312,Novel,Books,4,790.58,North,Credit Card
+ORD10531,2025-10-17,CUST1165,T-Shirt,Fashion,5,4287.32,North,Cash on Delivery
+ORD10858,2025-11-30,CUST1140,Novel,Books,4,850.96,North,Cash on Delivery
+ORD10714,2025-05-28,CUST1113,Perfume,Beauty,1,2561.92,North,Credit Card
+ORD10091,2025-12-07,CUST1076,Laptop,Electronics,5,10115.0,North,Net Banking
+ORD11471,2025-01-23,CUST1183,Tablet,Electronics,2,20285.41,South,Debit Card
+ORD10182,2025-06-13,CUST1176,Data Science Book,Books,5,1132.14,West,Credit Card
+ORD10876,2025-03-23,CUST1169,Mixer Grinder,Home,5,14867.71,West,Net Banking
+ORD11027,2025-11-03,CUST1292,Vacuum Cleaner,Home,2,16708.78,West,Cash on Delivery
+ORD10787,2025-06-30,CUST1238,Tablet,Electronics,1,19550.58,Central,Debit Card
+ORD10415,2025-07-12,CUST1209,Cookbook,Books,4,494.32,Central,Cash on Delivery
+ORD10252,2025-07-04,CUST1320,Novel,Books,3,2264.89,North,Debit Card
+ORD10070,2025-05-04,CUST1127,Laptop,Electronics,1,2890.11,East,UPI
+ORD10804,2025-01-06,CUST1259,Backpack,Fashion,5,3659.88,West,Cash on Delivery
+ORD10132,2025-12-24,CUST1254,Data Science Book,Books,1,1742.77,East,UPI
+ORD10301,2025-03-30,CUST1200,Jeans,Fashion,1,4972.29,West,Credit Card
+ORD11037,2025-01-10,CUST1316,Face Wash,Beauty,2,3035.41,Central,Debit Card
+ORD10327,2025-03-21,CUST1355,Desk Lamp,Home,1,6836.75,North,Debit Card
+ORD11485,2025-12-17,CUST1318,Novel,Books,1,2000.64,East,Debit Card
+ORD11182,2025-07-15,CUST1385,T-Shirt,Fashion,1,4747.46,West,Net Banking
+ORD10500,2025-06-23,CUST1185,Novel,,3,690.49,West,Cash on Delivery
+ORD10342,2025-06-03,CUST1050,Shampoo,Beauty,2,2050.84,South,Cash on Delivery
+ORD10833,2025-05-26,CUST1212,Moisturizer,Beauty,2,799.0,West,Net Banking
+ORD10365,2025-11-26,CUST1019,Headphones,Electronics,2,33661.25,North,UPI
+ORD10496,2025-06-13,CUST1298,Headphones,Electronics,2,59678.6,North,UPI
+ORD11447,2025-07-21,CUST1089,Smartwatch,Electronics,5,55986.47,West,Debit Card
+ORD10339,2025-12-03,CUST1048,T-Shirt,Fashion,5,3891.66,South,UPI
+ORD10422,2025-01-27,CUST1019,Face Wash,Beauty,4,4596.91,Central,Credit Card
+ORD10165,2025-12-08,CUST1063,Tablet,Electronics,4,77905.72,East,UPI
+ORD10029,2025-08-31,CUST1044,Novel,Books,2,2202.41,Central,Net Banking
+ORD10517,2025-07-07,CUST1062,T-Shirt,Fashion,5,5417.95,West,UPI
+ORD10194,2025-02-05,CUST1166,Perfume,Beauty,3,1624.79,South,Cash on Delivery
+ORD11146,2025-03-06,CUST1002,Data Science Book,Books,1,1733.9,South,Debit Card
+ORD11381,2025-10-27,CUST1151,Jacket,Fashion,2,6395.03,Central,Cash on Delivery
+ORD10946,2025-04-27,CUST1183,Jacket,Fashion,1,3647.78,East,UPI
+ORD11380,2025-08-05,CUST1097,Jeans,Fashion,2,3393.88,North,UPI
+ORD10170,2025-07-08,CUST1266,Air Fryer,Home,5,4789.04,North,UPI
+ORD10168,2025-09-15,CUST1306,Business Book,Books,3,451.94,West,UPI
+ORD10653,2025-06-08,CUST1240,Headphones,Electronics,1,25222.03,East,Cash on Delivery
+ORD10174,2025-03-10,CUST1329,Cookbook,Books,1,2488.33,North,Debit Card
+ORD10519,2025-10-10,CUST1188,T-Shirt,Fashion,5,6175.15,East,Net Banking
+ORD11231,2025-11-06,CUST1211,Backpack,Fashion,3,6823.29,North,Debit Card
+ORD11197,2025-06-19,CUST1331,Programming Book,Books,5,676.23,Central,Credit Card
+ORD10913,2025-08-04,CUST1340,Tablet,Electronics,5,77337.82,East,Cash on Delivery
+ORD10492,2025-10-16,CUST1052,Desk Lamp,Home,3,17755.26,West,UPI
+ORD10954,2025-03-07,CUST1182,Smartwatch,Electronics,4,61905.58,North,Net Banking
+ORD10074,2025-06-28,CUST1351,Perfume,Beauty,5,4019.99,South,Debit Card
+ORD11272,2025-07-20,CUST1211,Headphones,Electronics,3,25299.44,East,Debit Card
+ORD10588,2025-01-03,CUST1138,Headphones,Electronics,5,60057.42,Central,Debit Card
+ORD10751,2025-05-13,CUST1119,Moisturizer,Beauty,4,4391.95,Central,Debit Card
+ORD10658,2025-12-13,CUST1084,Shampoo,Beauty,3,2276.97,South,Debit Card
+ORD10843,2025-06-14,CUST1078,Programming Book,Books,1,2346.36,North,UPI
+ORD10235,2025-06-14,CUST1036,Sneakers,Fashion,4,3537.02,West,Debit Card
+ORD10733,2025-01-18,CUST1059,Vacuum Cleaner,Home,3,9099.88,East,Debit Card
+ORD10215,2025-09-21,CUST1372,Smartwatch,Electronics,5,45312.96,East,Net Banking
+ORD10163,2025-11-19,CUST1254,Programming Book,Books,2,2407.09,East,Net Banking
+ORD10133,2025-07-30,CUST1071,Perfume,electronics,1,3350.26,East,UPI
+ORD11119,2025-12-06,CUST1232,Air Fryer,Home,5,3920.61,West,Credit Card
+ORD10223,2025-07-14,CUST1341,Sneakers,,5,4056.28,East,UPI
+ORD11245,2025-07-22,CUST1272,Perfume,Beauty,3,3939.12,West,Debit Card
+ORD10935,2025-12-22,CUST1068,Smartwatch,Electronics,4,58720.07,South,UPI
+ORD10186,2025-11-02,CUST1396,Backpack,fashion,1,5995.72,North,Cash on Delivery
+ORD10042,2025-02-04,CUST1209,Sneakers,Fashion,4,4178.04,West,Net Banking
+ORD10693,2025-09-17,CUST1384,Backpack,Fashion,2,1443.13,East,UPI
+ORD10109,2025-03-23,CUST1222,Data Science Book,Books,3,819.82,North,Debit Card
+ORD10039,2025-12-17,CUST1340,Jeans,Fashion,3,4577.26,West,UPI
+ORD10569,2025-10-14,CUST1364,Cookbook,Books,1,2109.73,East,Cash on Delivery
+ORD11273,2025-01-15,CUST1282,Moisturizer,Beauty,4,1508.76,North,Cash on Delivery
+ORD11286,2025-05-15,CUST1309,Shampoo,Beauty,2,4505.9,North,Credit Card
+ORD11462,2025-03-07,CUST1368,Shampoo,Beauty,2,1370.03,Central,Net Banking
+ORD10484,2025-09-17,CUST1021,Tablet,Electronics,4,77870.49,West,Debit Card
+ORD10469,2025-12-20,CUST1261,Shampoo,Beauty,2,2017.37,North,Debit Card
+ORD10891,2025-12-09,CUST1015,Programming Book,,4,420.23,West,Credit Card
+ORD10948,2025-05-24,CUST1154,Perfume,Beauty,4,3046.1,South,Credit Card
+ORD10025,2025-03-05,CUST1092,Novel,Books,2,1557.51,North,Debit Card
+ORD11028,2025-03-23,CUST1009,Mixer Grinder,Home,3,9011.77,West,Credit Card
+ORD11209,2025-08-03,CUST1090,Backpack,Fashion,4,2737.45,West,UPI
+ORD10069,2025-05-21,CUST1137,Tablet,Electronics,3,45544.81,East,Credit Card
+ORD10885,2025-10-12,CUST1205,Backpack,Fashion,1,529.98,Central,UPI
+ORD11284,2025-09-05,CUST1244,Smartwatch,Electronics,1,68957.43,Central,Net Banking
+ORD10367,2025-05-18,CUST1285,Moisturizer,Beauty,3,3448.31,West,Cash on Delivery
+ORD10506,2025-08-04,CUST1208,Smartwatch,Electronics,5,34729.46,Central,Debit Card
+ORD10851,2025-09-25,CUST1011,Face Wash,Beauty,2,1304.8,South,Net Banking
+ORD11335,2025-06-23,CUST1246,Data Science Book,Books,2,1906.23,North,UPI
+ORD10384,2025-02-07,CUST1324,Novel,Books,2,411.5,North,Debit Card
+ORD10735,2025-12-19,CUST1257,Jeans,electronics,1,1502.45,North,Net Banking
+ORD10718,2025-05-17,CUST1172,Cookbook,Books,1,694.98,East,Cash on Delivery
+ORD11355,2025-10-29,CUST1109,Moisturizer,Beauty,2,1927.83,Central,Debit Card
+ORD10455,2025-01-06,CUST1188,Sneakers,Fashion,5,6665.07,North,UPI
+ORD10265,2025-03-10,CUST1079,Moisturizer,Beauty,4,2786.05,South,UPI
+ORD10076,2025-10-10,CUST1004,Sunscreen,Beauty,5,1364.04,South,Cash on Delivery
+ORD10445,2025-05-10,CUST1197,Backpack,Fashion,3,6748.1,West,Credit Card
+ORD10396,2025-09-05,CUST1070,Jeans,Fashion,4,4261.98,West,Credit Card
+ORD10177,2025-10-09,CUST1253,Tablet,Electronics,2,56584.99,South,Net Banking
+ORD11330,2025-11-16,CUST1392,Sunscreen,electronics,4,4806.03,North,Net Banking
+ORD11068,2025-03-20,CUST1028,Desk Lamp,Home,2,12409.92,East,Net Banking
+ORD11051,2025-04-02,CUST1300,Shampoo,Beauty,4,1585.95,Central,Debit Card
+ORD10596,2025-08-08,CUST1204,Jacket,Fashion,1,2393.54,South,Debit Card
+ORD10062,2025-10-29,CUST1283,Headphones,Electronics,5,32144.42,East,Cash on Delivery
+ORD10873,2025-02-28,CUST1238,Face Wash,Beauty,4,2442.04,West,UPI
+ORD11135,2025-10-30,CUST1290,Moisturizer,Beauty,1,2614.59,North,UPI
+ORD11426,2025-03-02,CUST1384,Moisturizer,Beauty,4,589.85,West,Credit Card
+ORD10279,2025-02-10,CUST1267,Tablet,Electronics,5,22971.32,West,Debit Card
+ORD10037,2025-09-08,CUST1256,Moisturizer,Beauty,2,1354.71,South,Debit Card
+ORD10663,2025-01-30,CUST1024,Sunscreen,Beauty,4,587.87,South,Debit Card
+ORD11371,2025-05-14,CUST1234,Mixer Grinder,Home,2,15128.32,South,Credit Card
+ORD11102,2025-01-26,CUST1296,Sunscreen,Beauty,2,3874.41,South,Net Banking
+ORD10978,2025-02-13,CUST1182,Perfume,Beauty,4,4499.85,South,UPI
+ORD10739,2025-01-26,CUST1015,Novel,Books,2,1981.95,West,Net Banking
+ORD10192,2025-05-25,CUST1136,Laptop,electronics,4,32083.94,West,Cash on Delivery
+ORD10920,2025-09-14,CUST1242,Backpack,Fashion,2,4056.99,West,Debit Card
+ORD10457,2025-02-26,CUST1382,Mixer Grinder,Home,1,13112.36,North,Credit Card
+ORD10676,2025-11-30,CUST1068,Face Wash,Beauty,2,4510.48,East,UPI
+ORD10761,2025-02-28,CUST1296,Data Science Book,Books,2,1905.95,West,Net Banking
+ORD11372,2025-03-19,CUST1081,Backpack,Fashion,3,1361.6,North,Debit Card
+ORD10729,2025-10-13,CUST1245,Sunscreen,Beauty,1,459.69,Central,Debit Card
+ORD10413,2025-08-12,CUST1258,Mixer Grinder,Home,5,9290.47,West,Debit Card
+ORD10826,2025-09-20,CUST1300,Smartphone,fashion,2,82267.88,East,Cash on Delivery
+ORD10617,2025-05-25,CUST1044,Face Wash,Beauty,4,1703.23,East,Cash on Delivery
+ORD10115,2025-03-02,CUST1102,Data Science Book,Books,5,1296.28,North,Cash on Delivery
+ORD10418,2025-06-21,CUST1169,Desk Lamp,Home,3,2679.9,South,Credit Card
+ORD11448,2025-02-26,CUST1250,Headphones,Electronics,3,74772.78,North,Cash on Delivery
+ORD10970,2025-07-09,CUST1230,Data Science Book,Books,4,1070.23,North,Cash on Delivery
+ORD10605,2025-12-22,CUST1201,Coffee Maker,Home,3,4633.86,North,Debit Card
+ORD11454,2025-07-03,CUST1070,Programming Book,Books,3,786.08,Central,Cash on Delivery
+ORD10090,2025-12-06,CUST1194,Air Fryer,Home,1,13009.95,North,Cash on Delivery
+ORD10849,2025-05-10,CUST1250,Novel,Books,3,403.59,East,Cash on Delivery
+ORD11161,2025-08-02,CUST1201,Laptop,Electronics,2,78757.28,North,Credit Card
+ORD11453,2025-08-14,CUST1353,Sneakers,Fashion,3,1428.72,Central,Net Banking
+ORD10754,2025-03-17,CUST1043,Smartphone,Electronics,1,44974.2,East,Net Banking
+ORD10499,2025-09-16,CUST1027,Desk Lamp,Home,3,15719.08,North,Cash on Delivery
+ORD10012,2025-04-21,CUST1274,Air Fryer,Home,4,2216.34,East,Net Banking
+ORD10397,2025-05-01,CUST1259,Backpack,Fashion,2,639.62,North,Credit Card
+ORD10285,2025-05-08,CUST1043,Business Book,Books,2,695.46,South,Net Banking
+ORD11067,2025-06-29,CUST1192,Jacket,Fashion,1,2767.06,West,UPI
+ORD10691,2025-05-16,CUST1331,T-Shirt,Fashion,3,4604.92,West,Debit Card
+ORD11248,2025-09-24,CUST1171,Data Science Book,Books,4,1090.07,Central,Cash on Delivery
+ORD11423,2025-02-10,CUST1030,Face Wash,Beauty,4,2112.41,West,Credit Card
+ORD10690,2025-07-07,CUST1179,Backpack,Fashion,3,602.4,Central,Net Banking
+ORD10852,2025-08-10,CUST1235,Desk Lamp,Home,4,11529.3,North,Credit Card
+ORD10160,2025-04-14,CUST1283,Novel,Books,2,1802.79,East,UPI
+ORD10896,2025-04-28,CUST1314,Smartphone,Electronics,5,65495.28,Central,Cash on Delivery
+ORD11206,2025-05-04,CUST1082,Desk Lamp,Home,2,1519.46,North,Net Banking
+ORD10258,2025-03-04,CUST1091,Jeans,electronics,5,6535.35,South,Net Banking
+ORD10336,2025-10-08,CUST1288,Laptop,Electronics,2,32815.84,South,Cash on Delivery
+ORD11427,2025-04-18,CUST1080,Backpack,Fashion,4,2378.1,Central,Net Banking
+ORD11040,2025-02-02,CUST1229,Jeans,Fashion,3,4677.57,East,Net Banking
+ORD10516,2025-11-24,CUST1091,Smartwatch,Electronics,1,44752.18,East,Cash on Delivery
+ORD11016,2025-05-31,CUST1332,Data Science Book,Books,5,492.58,North,Debit Card
+ORD10769,2025-03-26,,Headphones,Electronics,2,84358.66,South,Debit Card
+ORD11336,2025-06-05,CUST1125,Headphones,Electronics,5,5314.76,West,UPI
+ORD10762,2025-11-13,CUST1320,Cookbook,Books,3,352.22,Central,Net Banking
+ORD11117,2025-01-31,CUST1205,Cookbook,Books,1,1578.36,Central,Net Banking
+ORD10522,2025-01-11,CUST1385,Air Fryer,Home,2,15082.56,Central,Cash on Delivery
+ORD10023,2025-09-26,CUST1299,Novel,Books,2,594.89,South,Net Banking
+ORD10357,2025-11-07,CUST1344,Air Fryer,Home,1,14365.37,West,UPI
+ORD11291,2025-07-08,CUST1206,Face Wash,Beauty,3,4459.19,Central,Cash on Delivery
+ORD10341,2025-11-19,CUST1393,Laptop,Electronics,3,52186.41,West,Cash on Delivery
+ORD10432,2025-03-29,CUST1101,Moisturizer,Beauty,3,2985.15,Central,Net Banking
+ORD10474,2025-03-12,CUST1167,Coffee Maker,Home,2,14478.87,West,Debit Card
+ORD10218,2025-08-17,CUST1079,Headphones,Electronics,2,54819.46,Central,Debit Card
+ORD10912,2025-10-15,CUST1279,Data Science Book, ELECTRONICS ,3,2177.91,West,Credit Card
+ORD11222,2025-01-06,CUST1184,Jeans,Fashion,4,5792.28,North,Net Banking
+ORD11012,2025-01-29,CUST1128,T-Shirt,Fashion,4,3217.63,West,UPI
+ORD11479,2025-08-29,CUST1141,Tablet,Electronics,3,36217.63,North,Net Banking
+ORD10094,2025-06-01,CUST1255,Vacuum Cleaner,Home,2,1216.14,West,Net Banking
+ORD11009,2025-03-13,CUST1318,Cookbook,Books,2,1430.29,West,Net Banking
+ORD11071,2025-10-27,CUST1185,Business Book,Books,1,1330.83,South,Credit Card
+ORD11093,2025-01-19,CUST1071,Jeans,Fashion,1,4099.55,East,Cash on Delivery
+ORD10697,2025-11-19,CUST1311,Sunscreen,Beauty,4,3797.57,Central,Credit Card
+ORD10997,2025-01-18,CUST1202,Smartphone,Electronics,4,31182.04,East,UPI
+ORD10154,2025-07-25,CUST1304,Desk Lamp,Home,4,15003.46,Central,
+ORD11100,2025-11-02,CUST1141,Headphones,Electronics,2,53867.44,West,UPI
+ORD11319,2025-05-11,CUST1048,Novel,Books,3,1636.42,North,Cash on Delivery
+ORD10428,2025-02-08,CUST1302,Smartphone,Electronics,5,51223.87,North,Credit Card
+ORD10790,2025-07-14,CUST1234,Headphones,Electronics,4,14048.41,North,
+ORD10581,2025-11-12,CUST1252,Backpack,Fashion,4,1414.65,West,Cash on Delivery
+ORD10704,2025-10-03,CUST1145,Desk Lamp,Home,2,12220.32,West,Credit Card
+ORD11278,2025-04-10,CUST1098,Data Science Book,Books,4,1965.35,Central,Credit Card
+ORD10488,2025-05-23,CUST1001,Sunscreen,Beauty,3,1462.24,North,Net Banking
+ORD10560,2025-05-13,,Sneakers,Fashion,3,3139.8,Central,Cash on Delivery
+ORD10802,2025-10-15,CUST1305,Jacket,Fashion,1,1098.42,West,Net Banking
+ORD10513,2025-08-02,CUST1021,Sunscreen,Beauty,3,2559.25,Central,Net Banking
+ORD10634,2025-09-12,CUST1361,Coffee Maker,Home,4,4817.17,East,Debit Card
+ORD11125,2025-01-26,CUST1009,Face Wash,Beauty,4,3456.34,South,Debit Card
+ORD11357,2025-03-26,CUST1290,Novel,Books,5,1886.4,West,UPI
+ORD10791,2025-08-17,CUST1296,Coffee Maker,Home,3,8475.61,Central,UPI
+ORD10117,2025-07-24,CUST1021,Moisturizer,Beauty,5,4019.77,South,Credit Card
+ORD10741,2025-11-25,CUST1372,Backpack,Fashion,5,5653.71,Central,Net Banking
+ORD11082,2025-08-29,CUST1246,Shampoo,Beauty,3,2561.71,South,Debit Card
+ORD10831,2025-04-26,CUST1343,Smartphone,Electronics,5,49974.65,North,UPI
+ORD10120,2025-06-22,CUST1246,Sneakers,Fashion,5,4875.42,Central,Debit Card
+ORD10657,2025-08-06,CUST1271,Tablet,Electronics,2,64130.04,Central,Net Banking
+ORD10636,2025-09-09,CUST1039,Air Fryer,Home,1,4180.84,South,Net Banking
+ORD10370,2025-01-21,CUST1029,Business Book,Books,4,393.24,South,Cash on Delivery
+ORD10269,2025-10-01,CUST1260,Tablet,Electronics,3,16638.38,East,Debit Card
+ORD10656,2025-03-12,CUST1228,Smartwatch,Electronics,5,13264.4,North,UPI
+ORD10936,2025-04-15,CUST1180,Jacket,Fashion,5,6252.45,Central,Net Banking
+ORD10823,2025-01-29,CUST1003,Novel,Books,3,2043.01,North,UPI
+ORD10867,2025-09-18,CUST1359,Sunscreen,Beauty,2,3971.77,Central,Cash on Delivery
+ORD10047,2025-06-24,CUST1236,Laptop,Electronics,1,1835.89,West,Credit Card
+ORD11310,2025-03-23,CUST1074,Mixer Grinder,Home,1,4860.48,South,Net Banking
+ORD10992,2025-05-06,CUST1124,Novel,Books,3,267.77,South,UPI
+ORD10877,2025-05-15,CUST1148,Sunscreen,Beauty,3,2237.35,East,Net Banking
+ORD10774,2025-07-14,CUST1360,Face Wash,Beauty,4,2356.96,East,Cash on Delivery
+ORD10709,2025-09-14,CUST1380,Backpack,Fashion,3,6197.33,Central,Net Banking
+ORD10005,2025-10-18,CUST1076,Headphones,Electronics,3,40854.35,North,Net Banking
+ORD11004,2025-10-27,CUST1099,Novel,Books,4,693.0,Central,Cash on Delivery
+ORD11321,2025-05-16,CUST1260,T-Shirt, ELECTRONICS ,5,2038.68,North,Credit Card
+ORD10264,2025-02-19,CUST1341,Business Book,Books,2,1079.98,East,
+ORD11200,2025-04-22,CUST1073,Smartwatch,Electronics,3,837.85,North,Cash on Delivery
+ORD11389,2025-06-25,CUST1116,Face Wash,Beauty,3,3452.31,West,Net Banking
+ORD10444,2025-07-07,CUST1090,Perfume,Beauty,2,4815.99,West,Cash on Delivery
+ORD11003,2025-12-31,CUST1221,Mixer Grinder,Home,1,7026.32,North,UPI
+ORD11078,2025-11-30,CUST1298,Sneakers,Fashion,3,3089.62,North,Net Banking
+ORD10838,2025-11-24,CUST1235,Business Book,Books,2,265.26,South,Cash on Delivery
+ORD11359,2025-08-22,CUST1146,Perfume,Beauty,4,3350.53,West,UPI
+ORD10305,2025-08-08,CUST1179,Mixer Grinder,Home,5,8503.86,South,Net Banking
+ORD11190,2025-12-12,CUST1196,Mixer Grinder,Home,5,7157.53,East,UPI
+ORD10314,2025-05-25,CUST1365,Cookbook,Books,2,407.76,West,Debit Card
+ORD10150,2025-12-24,CUST1131,Tablet,Electronics,3,42367.19,East,UPI
+ORD11149,2025-09-26,CUST1098,Novel,Books,3,1444.76,Central,Cash on Delivery
+ORD10575,2025-08-07,CUST1060,Data Science Book,Books,5,495.37,East,UPI
+ORD10051,2025-12-18,CUST1096,Programming Book,Books,2,1820.77,Central,Cash on Delivery
+ORD11324,2025-03-28,CUST1342,Jacket,Fashion,3,3452.55,West,UPI
+ORD10727,2025-07-25,CUST1157,Vacuum Cleaner,Home,4,17837.81,East,Cash on Delivery
+ORD10834,2025-11-03,CUST1158,Data Science Book,Books,4,861.02,North,UPI
+ORD11116,2025-04-28,CUST1395,Sunscreen,Beauty,4,3282.45,Central,Credit Card
+ORD10471,2025-09-02,CUST1039,Mixer Grinder,Home,5,3820.12,East,Debit Card
+ORD10972,2025-09-09,CUST1302,Novel,Books,2,1075.1,North,UPI
+ORD10654,2025-01-24,CUST1133,Coffee Maker,Home,2,12154.13,South,Net Banking
+ORD10400,2025-12-22,CUST1260,Moisturizer,Beauty,1,773.31,East,Net Banking
+ORD10512,2025-09-24,CUST1138,Vacuum Cleaner,Home,5,15875.13,Central,UPI
+ORD10321,2025-12-03,CUST1323,Jeans,Fashion,2,5289.38,South,UPI
+ORD10020,2025-03-26,CUST1095,Programming Book,Books,1,963.56,South,Cash on Delivery
+ORD10685,2025-08-09,CUST1318,Jeans, ELECTRONICS ,2,3106.33,South,Debit Card
+ORD10036,2025-10-12,CUST1252,Business Book,Books,4,2179.54,Central,Debit Card
+ORD10903,2025-06-04,CUST1254,T-Shirt,Fashion,4,6573.3,East,UPI
+ORD10828,2025-01-01,CUST1241,Programming Book,Books,2,481.06,Central,Net Banking
+ORD10766,2025-11-17,CUST1368,Jeans,Fashion,4,707.87,West,Net Banking
+ORD10408,2025-06-14,CUST1189,Moisturizer,Beauty,4,4016.85,South,Credit Card
+ORD10921,2025-08-15,CUST1232,Sunscreen,Beauty,5,4003.81,South,Debit Card
+ORD10538,2025-08-30,CUST1393,Headphones,Electronics,4,3928.93,Central,UPI
+ORD10759,2025-11-08,CUST1091,Programming Book,Books,1,914.46,North,UPI
+ORD11063,2025-12-06,CUST1010,Tablet,Electronics,4,29130.56,North,UPI
+ORD10246,2025-03-08,CUST1203,Shampoo,Beauty,4,3654.57,West,Credit Card
+ORD11128,2025-09-18,CUST1089,Smartphone,Electronics,1,19705.49,North,Debit Card
+ORD10785,2025-09-20,CUST1287,Data Science Book,Books,4,971.53,Central,Net Banking
+ORD10490,2025-01-26,CUST1272,Novel,Books,3,1141.81,North,Net Banking
+ORD10155,2025-11-06,CUST1157,Perfume,Beauty,1,3481.99,Central,UPI
+ORD10962,2025-05-24,CUST1335,Mixer Grinder,Home,5,10946.42,West,Net Banking
+ORD10854,2025-07-07,CUST1118,Jeans,Fashion,5,722.48,Central,Net Banking
+ORD10626,2025-08-21,CUST1278,Air Fryer,Home,2,1392.54,East,UPI
+ORD10686,2025-03-05,CUST1182,Face Wash,Beauty,2,2745.59,South,Net Banking
+ORD10570,2025-01-04,CUST1328,Headphones,Electronics,1,13935.9,South,Credit Card
+ORD11446,2025-04-11,CUST1243,Business Book,Books,4,1013.24,South,Net Banking
+ORD10018,2025-04-08,CUST1382,Jacket,Fashion,2,542.64,East,UPI
+ORD10128,2025-03-31,CUST1162,Coffee Maker,Home,5,15289.49,South,Net Banking
+ORD11494,2025-07-29,CUST1096,Coffee Maker,Home,5,9566.1,Central,Net Banking
+ORD10928,2025-04-10,CUST1182,Novel,Books,1,920.58,South,Credit Card
+ORD10981,2025-02-02,CUST1256,Mixer Grinder,Home,5,4379.79,North,UPI
+ORD11490,2025-09-24,CUST1196,Laptop,Electronics,5,19470.95,North,UPI
+ORD10191,2025-09-04,CUST1002,Data Science Book,Books,3,2072.37,East,Net Banking
+ORD11140,2025-12-16,CUST1362,Tablet,Electronics,2,12663.01,North,UPI
+ORD10993,2025-06-13,CUST1259,Jacket,Fashion,5,5670.83,West,Net Banking
+ORD11484,2025-08-19,CUST1166,Shampoo,Beauty,5,1178.42,West,Net Banking
+ORD11270,2025-02-20,CUST1028,Face Wash,Beauty,1,2734.61,North,UPI
+ORD10607,2025-12-25,CUST1190,Laptop,Electronics,4,6084.67,South,UPI
+ORD10181,2025-05-20,CUST1051,Air Fryer,Home,4,1909.82,East,UPI
+ORD10302,2025-01-12,CUST1327,Jacket,Fashion,4,3809.39,East,UPI
+ORD10497,2025-05-04,CUST1029,Smartwatch,Electronics,1,58437.17,Central,Cash on Delivery
+ORD11311,2025-09-11,CUST1345,Coffee Maker,Home,3,3650.37,Central,UPI
+ORD11275,2025-01-17,CUST1305,Business Book,Books,3,1026.28,North,UPI
+ORD11353,2025-12-23,CUST1069,Face Wash,Beauty,3,2783.55,West,Net Banking
+ORD10518,2025-06-10,CUST1245,Vacuum Cleaner,Home,1,3416.3,East,UPI
+ORD11070,2025-10-27,CUST1011,Vacuum Cleaner,Home,3,12155.42,North,Credit Card
+ORD10477,2025-05-05,CUST1107,Moisturizer,Beauty,2,2849.04,South,Net Banking
+ORD10158,2025-11-09,CUST1341,Cookbook,Books,1,2074.67,East,Debit Card
+ORD11196,2025-04-27,CUST1363,Shampoo,Beauty,4,2811.25,West,Cash on Delivery
+ORD10017,2025-06-02,CUST1193,Tablet,Electronics,3,7765.87,West,Debit Card
+ORD11073,2025-10-17,CUST1190,Shampoo,Beauty,1,3188.36,East,Net Banking
+ORD11497,2025-11-16,CUST1294,Headphones,Electronics,2,20404.51,South,UPI
+ORD10547,2025-01-06,CUST1190,Laptop,Electronics,3,23781.53,North,Cash on Delivery
+ORD10659,2025-11-30,CUST1228,Sneakers,Fashion,2,4191.49,West,Debit Card
+ORD11244,2025-03-05,CUST1289,Jacket,Fashion,5,4154.96,South,Debit Card
+ORD11020,2025-12-29,CUST1138,Coffee Maker,Home,5,12058.33,South,Cash on Delivery
+ORD11434,2025-10-23,CUST1262,Mixer Grinder,Home,5,11488.8,North,UPI
+ORD10960,2025-07-29,CUST1208,Backpack,Fashion,5,6150.93,South,Credit Card
+ORD11429,2025-09-09,CUST1306,Tablet,Electronics,3,54850.15,South,UPI
+ORD10284,2025-07-22,CUST1299,Vacuum Cleaner,Home,2,16822.64,North,Debit Card
+ORD10798,2025-05-21,CUST1333,Jeans,Fashion,2,5171.18,East,Net Banking
+ORD10226,2025-07-20,CUST1273,Data Science Book,Books,1,2394.58,Central,Debit Card
+ORD10027,2025-07-05,CUST1266,Headphones,Electronics,2,24918.77,Central,Cash on Delivery
+ORD10438,2025-10-31,CUST1153,Programming Book,Books,4,1408.61,West,Cash on Delivery
+ORD11478,2025-05-30,CUST1370,Programming Book,Books,1,1014.04,Central,Net Banking
+ORD10230,2025-12-06,CUST1214,Desk Lamp,Home,1,17168.37,North,Cash on Delivery
+ORD10038,2025-04-30,CUST1174,Desk Lamp,Home,2,5835.96,West,Credit Card
+ORD10750,2025-03-17,CUST1154,T-Shirt,Fashion,3,740.61,Central,Credit Card
+ORD11046,2025-01-10,CUST1059,Face Wash,Beauty,3,3940.38,South,Net Banking
+ORD10470,2025-06-20,CUST1026,Mixer Grinder,Home,5,17647.46,North,Credit Card
+ORD11470,2025-06-09,CUST1348,Smartwatch,Electronics,5,18939.31,West,Net Banking
+ORD11493,2025-12-18,CUST1058,Novel,Books,1,1691.73,North,Credit Card
+ORD10688,2025-05-18,CUST1376,Smartphone,Electronics,2,23595.94,Central,Credit Card
+ORD11398,2025-05-18,CUST1357,Jeans,Fashion,4,4493.38,East,Debit Card
+ORD10640,2025-08-29,CUST1127,Jacket,Fashion,3,5877.91,West,UPI
+ORD11314,2025-09-20,CUST1121,Laptop,Electronics,2,79228.07,North,Net Banking
+ORD11219,2025-03-26,CUST1189,Cookbook,Books,3,2102.42,West,Debit Card
+ORD11159,2025-07-09,CUST1085,Cookbook,Books,3,821.69,East,Debit Card
+ORD11269,2025-03-17,CUST1194,Desk Lamp,Home,5,5187.01,East,Net Banking
+ORD11383,2025-08-07,CUST1124,Laptop,Electronics,4,73199.71,West,Net Banking
+ORD10801,2025-04-27,CUST1266,Jeans,Fashion,2,5500.65,East,Net Banking
+ORD10161,2025-02-11,CUST1151,Sunscreen,Beauty,4,1268.05,West,Debit Card
+ORD10957,2025-10-12,CUST1280,Jeans,Fashion,2,6358.67,West,Cash on Delivery
+ORD11187,2025-08-27,CUST1053,Data Science Book,Books,1,615.6,Central,UPI
+ORD10822,2025-09-15,CUST1251,Face Wash,Beauty,5,1755.06,North,Debit Card
+ORD11290,2025-07-22,CUST1072,Cookbook,Books,3,1800.69,West,Debit Card
+ORD10878,2025-07-16,CUST1202,Data Science Book,Books,4,1537.97,West,UPI
+ORD10914,2025-12-10,CUST1300,Desk Lamp,Home,2,11682.52,South,Cash on Delivery
+ORD10153,2025-05-15,CUST1129,Vacuum Cleaner,Home,5,2337.27,South,Cash on Delivery
+ORD11393,2025-02-02,CUST1177,Business Book,Books,3,285.52,South,Net Banking
+ORD10510,2025-09-28,CUST1151,Laptop,Electronics,5,78294.51,North,Cash on Delivery
+ORD11136,2025-03-15,CUST1023,T-Shirt,Fashion,3,1476.12,East,Cash on Delivery
+ORD11251,2025-09-10,CUST1095,Smartwatch,Electronics,4,72800.38,North,Credit Card
+ORD11277,2025-05-22,CUST1022,Sunscreen,Beauty,4,3131.49,West,Debit Card
+ORD10104,2025-05-25,CUST1251,Cookbook,Books,2,2354.61,East,Debit Card
+ORD10587,2025-08-26,CUST1125,Moisturizer,Beauty,4,1150.82,North,Credit Card
+ORD11348,2025-11-02,CUST1253,T-Shirt,Fashion,5,5347.66,East,UPI
+ORD11144,2025-04-07,CUST1256,T-Shirt,Fashion,1,5219.08,North,Credit Card
+ORD10054,2025-11-19,CUST1184,Smartphone,Electronics,4,15377.36,East,Net Banking
+ORD10152,2025-12-05,CUST1321,Moisturizer,Beauty,5,2947.69,South,Net Banking
+ORD10404,2025-02-01,CUST1349,Backpack,,5,4112.69,East,Credit Card
+ORD11475,2025-11-16,CUST1073,Face Wash,Beauty,3,4778.97,East,UPI
+ORD10208,2025-05-02,CUST1332,Programming Book,Books,1,2477.1,North,UPI
+ORD11437,2025-01-04,CUST1131,Headphones,Electronics,3,13288.32,South,Debit Card
+ORD11123,2025-03-30,CUST1283,Air Fryer,Home,2,17203.1,North,UPI
+ORD11492,2025-04-23,CUST1024,Perfume,Beauty,-1,2970.87,Central,Credit Card
+ORD10009,2025-05-07,CUST1175,Face Wash,Beauty,5,526.94,South,Cash on Delivery
+ORD11015,2025-02-01,CUST1375,Cookbook,Books,1,930.26,West,Net Banking
+ORD11363,2025-01-13,CUST1266,Data Science Book,Books,3,2197.68,East,UPI
+ORD11061,2025-11-06,CUST1274,Shampoo,Beauty,1,3340.52,Central,Net Banking
+ORD10453,2025-01-26,CUST1244,Backpack,Fashion,1,5055.97,Central,Debit Card
+ORD10254,2025-01-13,CUST1268,Face Wash,Beauty,4,714.95,Central,Debit Card
+ORD10897,2025-07-05,CUST1274,Air Fryer,Home,1,6234.02,West,Cash on Delivery
+ORD11328,2025-02-03,CUST1101,Desk Lamp,Home,4,2033.82,West,Cash on Delivery
+ORD10881,2025-04-06,CUST1367,Jeans,Fashion,1,5616.73,East,Debit Card
+ORD11433,2025-04-04,CUST1222,Smartphone,Electronics,1,28803.73,Central,Credit Card
+ORD10624,2025-12-28,CUST1258,T-Shirt,Fashion,2,4056.53,East,Credit Card
+ORD10346,2025-11-18,CUST1370,Backpack,electronics,4,966.85,North,Cash on Delivery
+ORD11306,2025-05-17,CUST1192,Perfume,Beauty,1,994.42,West,Cash on Delivery
+ORD10263,2025-08-04,CUST1016,Face Wash,Beauty,1,4761.79,West,Debit Card
+ORD10151,2025-03-21,CUST1078,Moisturizer,Beauty,5,2191.18,North,Cash on Delivery
+ORD10473,2025-07-20,CUST1018,Tablet,Electronics,3,46963.82,East,Cash on Delivery
+ORD10641,2025-05-18,CUST1325,Laptop,Electronics,1,63003.54,Central,Net Banking
+ORD10050,2025-10-11,CUST1324,Tablet,,1,77475.74,Central,Net Banking
+ORD11430,2025-10-09,CUST1358,Backpack,Fashion,1,6324.49,West,Net Banking
+ORD10551,2025-01-14,CUST1045,Face Wash,Beauty,3,471.17,North,Credit Card
+ORD10929,2025-06-22,CUST1264,Desk Lamp,Home,1,2484.3,East,Debit Card
+ORD10489,2025-01-29,CUST1167,Shampoo,Beauty,5,3009.14,South,Debit Card
+ORD11376,2025-08-06,CUST1165,Air Fryer,Home,-1,13610.68,East,Cash on Delivery
+ORD11172,2025-09-06,CUST1248,T-Shirt,Fashion,3,3345.92,West,Debit Card
+ORD10147,2025-05-06,CUST1145,Smartphone,Electronics,2,30890.52,North,UPI
+ORD10403,2025-09-19,CUST1023,Smartwatch,Electronics,1,73276.64,Central,Credit Card
+ORD10955,2025-07-23,CUST1119,Desk Lamp,Home,4,13290.17,South,Net Banking
+ORD11425,2025-12-25,CUST1259,Smartwatch,Electronics,1,9502.41,West,Net Banking
+ORD10660,2025-11-24,CUST1181,Smartphone,electronics,5,46946.62,South,Net Banking
+ORD10464,2025-05-06,CUST1117,Vacuum Cleaner,Home,4,2312.68,South,Net Banking
+ORD10187,2025-02-16,CUST1161,Smartphone,Electronics,4,51850.41,South,Credit Card
+ORD11148,2025-12-16,CUST1367,Smartphone,Electronics,-1,27822.07,North,Debit Card
+ORD11225,2025-02-17,CUST1081,Smartphone,Electronics,1,57369.93,West,UPI
+ORD10609,2025-11-18,CUST1133,Mixer Grinder,Home,4,15183.74,West,Credit Card
+ORD10144,2025-04-25,CUST1181,Sneakers,Fashion,3,407.05,West,Net Banking
+ORD10752,2025-03-05,CUST1076,Sunscreen,Beauty,5,1207.79,East,Net Banking
+ORD10982,2025-09-25,CUST1192,Jeans,Fashion,1,2741.64,South,Net Banking
+ORD10198,2025-12-09,CUST1043,Face Wash,Beauty,4,3787.66,North,Net Banking
+ORD10884,2025-12-19,CUST1270,Moisturizer,Beauty,5,2839.6,West,Net Banking
+ORD10280,2025-04-22,CUST1307,Desk Lamp,Home,2,3293.99,East,Net Banking
+ORD10294,2025-05-27,CUST1077,Novel,Books,1,726.42,West,Cash on Delivery
+ORD11384,2025-12-17,CUST1121,Moisturizer,Beauty,2,2500.33,Central,UPI
+ORD10401,2025-07-12,CUST1334,Novel,Books,3,816.35,East,Cash on Delivery
+ORD10123,2025-06-19,CUST1177,Shampoo,Beauty,2,3398.82,North,Cash on Delivery
+ORD11208,2025-11-02,CUST1045,Business Book,Books,5,1314.54,South,Credit Card
+ORD10203,2025-04-18,CUST1264,Desk Lamp,Home,5,4508.73,Central,Debit Card
+ORD10836,2025-03-27,CUST1314,Mixer Grinder,electronics,1,5130.81,South,UPI
+ORD10247,2025-01-21,CUST1229,Tablet,Electronics,2,76587.69,South,Cash on Delivery
+ORD11442,2025-06-02,CUST1210,Backpack,Fashion,1,562.78,West,Net Banking
+ORD11428,2025-07-08,CUST1031,Novel,Books,1,1330.7,East,Net Banking
+ORD11154,2025-08-10,CUST1071,Headphones,Electronics,4,62378.62,North,Debit Card
+ORD10385,2025-01-24,CUST1092,Data Science Book,Books,3,1588.22,North,UPI
+ORD11342,2025-12-23,CUST1384,Smartphone,Electronics,4,49023.17,East,Net Banking
+ORD10855,2025-10-03,CUST1354,Mixer Grinder,Home,3,1087.61,Central,Credit Card
+ORD10220,2025-12-28,CUST1044,Novel,Books,3,1439.22,West,Cash on Delivery
+ORD10642,2025-06-12,CUST1026,Backpack,Fashion,1,1552.05,North,UPI
+ORD10002,2025-06-14,CUST1201,Tablet,Electronics,2,78833.61,North,Debit Card
+ORD10113,2025-04-19,CUST1065,Air Fryer,Home,1,14148.31,Central,Credit Card
+ORD10699,2025-02-04,CUST1108,T-Shirt,Fashion,2,4727.0,East,Net Banking
+ORD11451,2025-03-10,CUST1236,Novel,Books,5,1803.65,North,UPI
+ORD10952,2025-02-15,CUST1216,Backpack,Fashion,5,3453.9,West,UPI
+ORD11337,2025-06-25,CUST1370,Business Book,Books,2,938.78,South,Debit Card
+ORD11292,2025-08-10,CUST1173,Jeans,Fashion,2,3907.72,Central,Credit Card
+ORD11373,2025-11-12,CUST1156,Smartphone,Electronics,1,55985.34,West,Debit Card
+ORD10442,2025-03-15,CUST1344,Vacuum Cleaner,fashion,1,8497.76,East,Credit Card
+ORD11137,2025-06-17,CUST1020,Headphones,Electronics,4,34133.53,Central,Debit Card
+ORD11257,2025-01-01,CUST1301,Headphones,Electronics,4,36855.46,North,Cash on Delivery
+ORD10664,2025-04-06,CUST1044,Shampoo,Beauty,4,4035.61,North,Credit Card
+ORD11392,2025-09-11,CUST1285,Face Wash,Beauty,2,676.79,Central,Credit Card
+ORD11258,2025-07-13,CUST1082,Shampoo,Beauty,5,4405.39,North,UPI
+ORD11351,2025-10-04,CUST1062,Mixer Grinder,Home,5,15328.43,Central,Cash on Delivery
+ORD10318,2025-03-02,CUST1321,Novel,Books,5,1448.67,North,Credit Card
+ORD10649,2025-02-28,CUST1237,Cookbook,Books,3,2457.5,North,Net Banking
+ORD10710,2025-02-12,CUST1228,Smartwatch,Electronics,5,15436.2,Central,Cash on Delivery
+ORD11283,2025-06-12,CUST1010,Desk Lamp,Home,5,6104.84,North,Credit Card
+ORD10973,2025-06-03,CUST1376,Perfume,Beauty,5,3723.26,West,Cash on Delivery
+ORD10628,2025-10-07,CUST1105,Vacuum Cleaner,Home,4,3482.3,West,Net Banking
+ORD10633,2025-08-04,CUST1239,Novel,Books,1,2115.34,West,Credit Card
+ORD11307,2025-11-21,CUST1267,Sneakers,Fashion,5,5678.6,West,UPI
+ORD11249,2025-12-23,CUST1308,Perfume,Beauty,3,3024.65,South,Credit Card
+ORD11482,2025-10-09,CUST1006,Backpack,Fashion,4,2814.79,West,Cash on Delivery
+ORD11255,2025-08-11,CUST1053,Headphones,Electronics,2,84353.14,West,Cash on Delivery
+ORD11403,2025-11-02,CUST1394,Sunscreen,Beauty,3,3819.46,East,Cash on Delivery
+ORD10796,2025-05-31,CUST1359,Data Science Book,Books,2,963.81,Central,Net Banking
+ORD10646,2025-05-14,CUST1013,Coffee Maker,Home,5,15933.08,East,Credit Card
+ORD11013,2025-05-12,CUST1396,Air Fryer,Home,3,4546.88,West,Credit Card
+ORD10557,2025-04-02,CUST1104,Perfume,Beauty,1,1880.49,West,Cash on Delivery
+ORD10682,2025-06-19,CUST1304,Programming Book,Books,5,1657.29,West,Debit Card
+ORD10578,2025-07-28,CUST1137,Perfume,Beauty,5,822.74,North,Credit Card
+ORD11110,2025-06-10,CUST1099,Smartphone,Electronics,4,71011.31,Central,Net Banking
+ORD11267,2025-05-21,CUST1086,Cookbook,Books,5,2051.63,Central,UPI
+ORD11184,2025-01-06,CUST1358,Smartwatch,Electronics,2,62776.6,East,UPI
+ORD10525,2025-03-27,CUST1134,Vacuum Cleaner,Home,4,1477.49,North,Credit Card
+ORD11060,2025-06-28,CUST1198,Mixer Grinder,Home,1,12904.34,West,UPI
+ORD10541,2025-11-15,CUST1199,Data Science Book,Books,5,659.08,West,Cash on Delivery
+ORD11195,2025-01-06,CUST1191,Sunscreen,Beauty,4,1865.6,Central,UPI
+ORD10749,2025-11-01,CUST1189,Headphones,Electronics,3,54638.07,South,Net Banking
+ORD11406,2025-03-31,CUST1121,Vacuum Cleaner,Home,1,3157.52,West,Cash on Delivery
+ORD10485,2025-04-27,CUST1108,Desk Lamp,Home,5,6201.13,East,Debit Card
+ORD10096,2025-07-05,CUST1049,Smartwatch,Electronics,5,1137.44,East,Cash on Delivery
+ORD11021,2025-01-14,CUST1140,Laptop,Electronics,4,16148.43,Central,Cash on Delivery
+ORD10564,2025-04-27,CUST1285,Novel,Books,4,867.02,Central,Cash on Delivery
+ORD11265,2025-12-27,CUST1207,Cookbook,Books,1,846.71,East,Cash on Delivery
+ORD10743,2025-01-25,CUST1140,Jacket,Fashion,1,6683.41,West,UPI
+ORD10864,2025-08-23,CUST1388,Novel,Books,3,2225.34,South,UPI
+ORD10892,2025-01-04,CUST1371,Mixer Grinder,Home,5,1185.31,West,Cash on Delivery
+ORD11039,2025-12-29,CUST1352,Sunscreen,Beauty,3,4764.11,Central,Net Banking
+ORD10207,2025-01-07,CUST1356,Air Fryer,Home,5,10709.94,Central,Net Banking
+ORD10393,2025-01-30,CUST1098,Face Wash,Beauty,3,1638.61,South,UPI
+ORD10795,2025-03-10,CUST1007,Smartwatch,Electronics,3,66256.47,South,Credit Card
+ORD10871,2025-06-16,CUST1156,Programming Book,Books,4,972.94,South,Net Banking
+ORD10398,2025-06-04,CUST1245,Backpack,Fashion,1,6698.17,East,Cash on Delivery
+ORD10767,2025-10-12,CUST1072,Laptop,Electronics,2,13388.3,West,Credit Card
+ORD11396,2025-08-14,CUST1320,T-Shirt,Fashion,3,5926.81,West,Debit Card
+ORD11242,2025-07-14,CUST1271,Jeans,Fashion,5,606.85,South,Credit Card
+ORD11029,2025-10-14,CUST1256,Smartwatch,Electronics,3,56376.32,North,Net Banking
+ORD10643,2025-06-08,CUST1077,Smartwatch,Electronics,1,58503.54,North,Credit Card
+ORD10613,2025-04-19,CUST1184,Novel,Books,2,414.66,North,Cash on Delivery
+ORD10961,2025-07-27,CUST1222,Moisturizer,Beauty,1,3518.6,South,Cash on Delivery
+ORD10726,2025-07-28,CUST1112,Mixer Grinder,Home,5,11122.94,West,Cash on Delivery
+ORD10684,2025-09-15,CUST1309,Perfume,Beauty,5,604.79,East,Net Banking
+ORD10099,2025-07-14,CUST1291,Sunscreen,Beauty,4,2694.27,East,UPI
+ORD10805,2025-12-01,CUST1065,Vacuum Cleaner,Home,2,17712.47,North,UPI
+ORD10407,2025-08-22,CUST1001,Business Book,Books,1,296.0,North,UPI
+ORD10503,2025-07-22,CUST1318,Jacket,Fashion,1,5725.69,West,Cash on Delivery
+ORD11072,2025-09-24,CUST1377,Shampoo,Beauty,4,2062.27,North,Credit Card
+ORD11057,2025-03-12,CUST1368,Laptop,Electronics,4,53434.27,West,Debit Card
+ORD10930,2025-01-28,CUST1307,Sneakers,Fashion,5,4515.96,East,Cash on Delivery
+ORD10780,2025-01-02,CUST1006,Air Fryer,Home,3,16439.41,South,Net Banking
+ORD10201,2025-02-27,CUST1394,Programming Book,Books,2,1177.84,South,Net Banking
+ORD10135,2025-10-06,CUST1142,Desk Lamp,Home,2,14907.29,West,Net Banking
+ORD11052,2025-10-23,CUST1188,Cookbook,Books,5,561.23,North,UPI
+ORD10041,2025-12-17,CUST1384,Face Wash,Beauty,1,4743.63,Central,Net Banking
+ORD11018,2025-05-19,CUST1254,Coffee Maker,Home,4,8662.66,Central,Cash on Delivery
+ORD10231,2025-03-11,CUST1221,Coffee Maker,Home,4,11319.23,North,Debit Card
+ORD10379,2025-09-03,CUST1059,Business Book,Books,5,867.05,West,Debit Card
+ORD10289,2025-10-04,CUST1235,Business Book,Books,2,1459.39,West,UPI
+ORD10419,2025-04-13,CUST1117,Headphones,Electronics,1,42755.11,West,Net Banking
+ORD10392,2025-08-09,CUST1081,Business Book,Books,5,2374.33,East,Credit Card
+ORD10593,2025-10-13,CUST1210,Laptop,Electronics,2,17486.02,West,UPI
+ORD11163,2025-07-11,CUST1071,Perfume,,2,1892.89,South,Debit Card
+ORD11087,2025-10-19,CUST1239,Sunscreen,Beauty,4,3495.58,Central,Net Banking
+ORD10648,2025-03-04,CUST1255,Coffee Maker,Home,3,11530.65,East,Debit Card
+ORD11153,2025-11-06,CUST1018,Mixer Grinder,Home,3,1005.34,North,Credit Card
+ORD11368,2025-10-15,CUST1202,Coffee Maker,Home,2,12358.39,Central,Cash on Delivery
+ORD10521,2025-08-23,CUST1073,Air Fryer,Home,3,10945.18,West,UPI
+ORD10065,2025-07-03,CUST1180,Face Wash,Beauty,5,2479.3,South,Credit Card
+ORD10015,2025-02-21,CUST1234,Desk Lamp,Home,1,7893.47,West,Net Banking
+ORD11181,2025-04-24,CUST1301,Jeans,Fashion,5,6616.47,West,Net Banking
+ORD11065,2025-01-02,CUST1027,Smartphone,Electronics,3,35211.0,South,UPI
+ORD10493,2025-05-07,CUST1194,Cookbook,Books,3,1359.8,Central,Credit Card
+ORD10380,2025-10-05,CUST1116,Novel,Books,4,1708.21,South,Debit Card
+ORD10188,2025-03-13,CUST1299,Smartphone,Electronics,1,80730.51,West,UPI
+ORD10764,2025-04-03,CUST1006,Programming Book,Books,4,2160.6,East,UPI
+ORD10217,2025-08-24,CUST1173,Sneakers,Fashion,2,4161.89,West,Cash on Delivery
+ORD10792,2025-06-04,CUST1012,Smartphone,Electronics,2,3710.93,East,Debit Card
+ORD11077,2025-04-09,CUST1181,T-Shirt,Fashion,1,2710.82,South,Net Banking
+ORD10879,2025-07-29,CUST1382,Jacket,Fashion,2,5556.61,North,Cash on Delivery
+ORD10338,2025-02-15,CUST1338,Jacket,Fashion,3,639.07,North,UPI
+ORD10720,2025-04-06,CUST1081,Vacuum Cleaner,Home,5,13894.21,East,UPI
+ORD10296,2025-07-14,CUST1313,Novel,Books,4,773.65,South,Cash on Delivery
+ORD11017,2025-09-29,CUST1157,Moisturizer,Beauty,1,522.65,East,Credit Card
+ORD11276,2025-02-14,CUST1378,Perfume,Beauty,4,4075.15,West,Cash on Delivery
+ORD10456,2025-08-15,CUST1268,Mixer Grinder,Home,3,4223.83,West,Debit Card
+ORD10333,2025-11-17,CUST1383,Face Wash,Beauty,5,4109.45,Central,UPI
+ORD10816,2025-04-23,CUST1020,Novel,Books,5,1698.91,North,Net Banking
+ORD10270,2025-10-06,CUST1034,Cookbook,Books,1,942.16,West,Credit Card
+ORD10996,2025-08-28,CUST1282,Business Book,Books,3,1719.8,East,Debit Card
+ORD10202,2025-04-14,,Novel,Books,4,1982.93,South,Credit Card
+ORD10162,2025-05-06,CUST1075,Headphones, ELECTRONICS ,1,80564.33,East,Net Banking
+ORD10730,2025-02-24,CUST1392,Sunscreen,,3,2904.27,South,UPI
+ORD10402,2025-02-06,CUST1316,Backpack,Fashion,4,758.92,East,Net Banking
+ORD10703,2025-05-08,CUST1249,Smartphone,Electronics,4,33263.83,West,Net Banking
+ORD11130,2025-05-07,CUST1274,Tablet,,4,46347.45,Central,UPI
+ORD10566,2025-06-18,CUST1190,Smartphone,fashion,5,62239.22,North,Debit Card
+ORD11414,2025-01-20,CUST1301,Data Science Book,Books,5,2307.38,East,Debit Card
+ORD11022,2025-09-11,CUST1076,Sunscreen,Beauty,1,1419.62,East,Net Banking
+ORD11026,2025-09-19,CUST1155,Face Wash,Beauty,1,2773.88,East,Cash on Delivery
+ORD11412,2025-02-22,CUST1151,Mixer Grinder,Home,5,7703.95,West,Credit Card
+ORD11105,2025-10-01,CUST1206,Headphones,Electronics,5,69655.22,Central,Credit Card
+ORD10206,2025-12-16,CUST1178,Smartphone,Electronics,4,54314.18,North,Net Banking
+ORD10035,2025-02-04,CUST1334,Novel,Books,1,2454.03,North,Credit Card
+ORD10776,2025-11-12,CUST1132,Programming Book,Books,3,2498.92,West,Credit Card
+ORD10509,2025-10-03,CUST1159,Tablet,Electronics,3,47180.03,Central,Credit Card
+ORD11452,2025-02-01,CUST1105,Mixer Grinder,Home,3,9613.58,Central,Cash on Delivery
+ORD11496,2025-05-06,CUST1097,Tablet,Electronics,2,56639.97,Central,Credit Card
+ORD11391,2025-04-08,CUST1258,Cookbook,Books,2,2014.99,South,
+ORD10092,2025-01-02,CUST1113,Business Book,Books,5,822.09,South,Cash on Delivery
+ORD11364,2025-10-11,CUST1232,Cookbook,Books,2,2277.34,West,Net Banking
+ORD10898,2025-01-21,CUST1068,T-Shirt,Fashion,5,5932.86,Central,Cash on Delivery
+ORD10565,2025-03-27,CUST1073,T-Shirt,Fashion,5,5402.81,North,Debit Card
+ORD11370,2025-09-17,CUST1081,Moisturizer,fashion,5,2174.31,North,Debit Card
+ORD10777,2025-11-24,CUST1107,Moisturizer,Beauty,3,1540.55,North,Cash on Delivery
+ORD10242,2025-05-03,CUST1037,Smartwatch,Electronics,5,2166.6,North,Cash on Delivery
+ORD10014,2025-03-15,CUST1289,Backpack,Fashion,2,6053.65,West,Debit Card
+ORD10316,2025-09-30,CUST1027,Cookbook,Books,2,891.95,West,Net Banking
+ORD10601,2025-10-26,CUST1118,Vacuum Cleaner,Home,4,14980.61,North,Debit Card
+ORD10388,2025-05-09,CUST1249,Jeans,Fashion,4,3614.08,Central,Debit Card
+ORD11298,2025-09-19,CUST1209,Desk Lamp,Home,1,9239.6,West,Cash on Delivery
+ORD10167,2025-08-14,CUST1337,Tablet, ELECTRONICS ,2,11487.95,Central,Credit Card
+ORD10841,2025-05-03,CUST1286,Shampoo, ELECTRONICS ,2,1861.65,West,Credit Card
+ORD10021,2025-08-15,CUST1207,Moisturizer,Beauty,5,2316.71,South,UPI
+ORD10647,2025-11-20,CUST1095,Cookbook,Books,5,302.94,South,Debit Card
+ORD11155,2025-10-15,CUST1125,Desk Lamp,Home,3,1659.82,South,Net Banking
+ORD10832,2025-05-18,CUST1051,Smartphone,Electronics,5,61397.5,West,Credit Card
+ORD11268,2025-01-13,CUST1179,Moisturizer,Beauty,2,1842.59,North,Debit Card
+ORD10563,2025-10-03,CUST1111,Sneakers,Fashion,4,6447.59,West,Cash on Delivery
+ORD11481,2025-03-31,CUST1072,Novel,Books,1,1308.09,West,Debit Card
+ORD10687,2025-10-28,CUST1134,Data Science Book,Books,2,1315.06,West,UPI
+ORD10958,2025-06-03,CUST1122,Mixer Grinder,Home,3,14017.4,South,Credit Card
+ORD10190,2025-04-07,CUST1003,Business Book,Books,3,1101.22,West,Cash on Delivery
+ORD10976,2025-05-08,CUST1294,Novel,Books,2,1798.34,West,Debit Card
+ORD10700,2025-02-23,CUST1151,Backpack,Fashion,5,776.59,West,Net Banking
+ORD10511,2025-04-05,CUST1008,Face Wash,Beauty,5,841.9,North,UPI
+ORD11083,2025-04-09,CUST1118,Air Fryer,Home,4,17349.17,East,Net Banking
+ORD10475,2025-05-23,CUST1205,Perfume,Beauty,1,2115.45,South,Cash on Delivery
+ORD10857,2025-05-11,CUST1263,Smartphone,Electronics,3,63089.05,West,UPI
+ORD10748,2025-10-09,CUST1249,Perfume,Beauty,5,2624.44,East,Cash on Delivery
+ORD10253,2025-09-18,CUST1323,Smartwatch,Electronics,4,79042.2,South,Credit Card
+ORD10022,2025-10-01,CUST1339,Novel,Books,5,1738.74,East,Credit Card
+ORD11338,2025-12-04,CUST1196,Sunscreen,electronics,1,1060.79,Central,UPI
+ORD10460,2025-09-15,CUST1095,Cookbook,Books,3,1480.79,West,Cash on Delivery
+ORD11185,2025-08-23,CUST1370,Vacuum Cleaner,Home,1,4517.85,South,Debit Card
+ORD10277,2025-09-16,CUST1335,Programming Book,Books,1,1483.61,North,Net Banking
+ORD10956,2025-05-25,CUST1135,Air Fryer,Home,4,10712.29,North,Credit Card
+ORD11216,2025-05-16,CUST1076,Headphones, ELECTRONICS ,5,33457.23,West,Cash on Delivery
+ORD10386,2025-09-17,CUST1228,Sunscreen,Beauty,4,1788.18,West,Net Banking
+ORD10806,2025-05-04,CUST1103,Face Wash,Beauty,4,1208.64,South,
+ORD11438,2025-01-26,CUST1307,Sneakers,Fashion,3,4962.35,North,Net Banking
+ORD10344,2025-03-31,CUST1103,Tablet,Electronics,5,3702.46,North,Net Banking
+ORD10770,2025-08-03,CUST1014,Tablet,Electronics,3,63349.37,West,Credit Card
+ORD11333,2025-07-04,CUST1344,Business Book,Books,4,2414.11,North,Cash on Delivery
+ORD10131,2025-08-09,CUST1047,Sunscreen,Beauty,1,2258.3,South,Cash on Delivery
+ORD10872,2025-07-17,CUST1324,T-Shirt,Fashion,1,4288.44,South,Net Banking
+ORD11124,2025-09-04,CUST1359,Air Fryer,Home,4,3255.91,North,UPI
+ORD11397,2025-09-29,CUST1314,Data Science Book,Books,5,257.57,North,Net Banking
+ORD10088,2025-01-01,CUST1116,Sneakers,Fashion,1,3753.9,East,Debit Card
+ORD11483,2025-07-25,CUST1260,Business Book,Books,5,709.22,South,Cash on Delivery
+ORD10331,2025-08-22,CUST1132,Air Fryer,Home,3,3567.53,West,Debit Card
+ORD11239,2025-04-23,CUST1359,Shampoo,Beauty,2,2669.04,East,Cash on Delivery
+ORD10467,2025-02-17,CUST1278,Sneakers,Fashion,5,3686.59,South,UPI
+ORD10122,2025-05-28,CUST1358,Moisturizer,Beauty,3,2241.68,East,Credit Card
+ORD11045,2025-10-24,CUST1122,Mixer Grinder,Home,5,3675.54,Central,Cash on Delivery
+ORD11096,2025-05-06,CUST1370,Business Book,Books,4,636.37,South,Cash on Delivery
+ORD11131,2025-06-11,CUST1203,Jacket,Fashion,1,6623.94,East,Debit Card
+ORD11295,2025-03-08,CUST1322,Tablet,Electronics,3,74835.04,North,Debit Card
+ORD10861,2025-07-23,CUST1113,Air Fryer,Home,1,6087.0,East,UPI
+ORD11460,2025-08-26,CUST1118,Moisturizer,Beauty,2,1232.54,West,Debit Card
+ORD11127,2025-05-26,CUST1168,Smartwatch,Electronics,2,5194.58,West,Net Banking
